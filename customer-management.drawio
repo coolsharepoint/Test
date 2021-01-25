@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T04:46:57.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="wg0boj-PqtGbxMbgmcMz" version="14.1.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-01-25T21:13:49.568Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="7_zOWdddsR6KntO7GEaR" version="14.2.3" type="github" pages="4">
   <diagram id="E3Rx2xKXkaYTa4BLorXU" name="Landing-page">
     <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -64,38 +64,94 @@
       <root>
         <mxCell id="d_cK_WEf3hAIwTRp0_HH-0" />
         <mxCell id="d_cK_WEf3hAIwTRp0_HH-1" parent="d_cK_WEf3hAIwTRp0_HH-0" />
-        <mxCell id="d_cK_WEf3hAIwTRp0_HH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="d_cK_WEf3hAIwTRp0_HH-1" source="d_cK_WEf3hAIwTRp0_HH-2" target="d_cK_WEf3hAIwTRp0_HH-4">
+        <mxCell id="d_cK_WEf3hAIwTRp0_HH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="d_cK_WEf3hAIwTRp0_HH-1" source="d_cK_WEf3hAIwTRp0_HH-2" target="d_cK_WEf3hAIwTRp0_HH-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d_cK_WEf3hAIwTRp0_HH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="d_cK_WEf3hAIwTRp0_HH-1" source="d_cK_WEf3hAIwTRp0_HH-2" target="d_cK_WEf3hAIwTRp0_HH-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QiPn1_x6uKjbwOPFFpC_-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="d_cK_WEf3hAIwTRp0_HH-1" source="d_cK_WEf3hAIwTRp0_HH-2" target="QiPn1_x6uKjbwOPFFpC_-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d_cK_WEf3hAIwTRp0_HH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="d_cK_WEf3hAIwTRp0_HH-1" source="d_cK_WEf3hAIwTRp0_HH-2" target="d_cK_WEf3hAIwTRp0_HH-5">
+        <mxCell id="d_cK_WEf3hAIwTRp0_HH-2" value="Company Users Auth&lt;br&gt;Company &amp;amp; Order Portal users will be authenticated against Company Cognito User Pool created." style="ellipse;whiteSpace=wrap;html=1;" parent="d_cK_WEf3hAIwTRp0_HH-1" vertex="1">
+          <mxGeometry y="40" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QiPn1_x6uKjbwOPFFpC_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="d_cK_WEf3hAIwTRp0_HH-1" source="d_cK_WEf3hAIwTRp0_HH-4" target="QiPn1_x6uKjbwOPFFpC_-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d_cK_WEf3hAIwTRp0_HH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="d_cK_WEf3hAIwTRp0_HH-1" source="d_cK_WEf3hAIwTRp0_HH-2" target="d_cK_WEf3hAIwTRp0_HH-6">
+        <mxCell id="d_cK_WEf3hAIwTRp0_HH-4" value="Company Portal" style="rounded=0;whiteSpace=wrap;html=1;" parent="d_cK_WEf3hAIwTRp0_HH-1" vertex="1">
+          <mxGeometry x="260" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QiPn1_x6uKjbwOPFFpC_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="d_cK_WEf3hAIwTRp0_HH-1" source="d_cK_WEf3hAIwTRp0_HH-5" target="QiPn1_x6uKjbwOPFFpC_-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d_cK_WEf3hAIwTRp0_HH-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="d_cK_WEf3hAIwTRp0_HH-1" source="d_cK_WEf3hAIwTRp0_HH-2" target="d_cK_WEf3hAIwTRp0_HH-7">
+        <mxCell id="d_cK_WEf3hAIwTRp0_HH-5" value="Order Portal" style="rounded=0;whiteSpace=wrap;html=1;" parent="d_cK_WEf3hAIwTRp0_HH-1" vertex="1">
+          <mxGeometry x="260" y="289.68" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QiPn1_x6uKjbwOPFFpC_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="d_cK_WEf3hAIwTRp0_HH-1" source="d_cK_WEf3hAIwTRp0_HH-6" target="QiPn1_x6uKjbwOPFFpC_-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d_cK_WEf3hAIwTRp0_HH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="d_cK_WEf3hAIwTRp0_HH-1" source="d_cK_WEf3hAIwTRp0_HH-2" target="d_cK_WEf3hAIwTRp0_HH-8">
+        <mxCell id="d_cK_WEf3hAIwTRp0_HH-6" value="Customer Portal" style="rounded=0;whiteSpace=wrap;html=1;" parent="d_cK_WEf3hAIwTRp0_HH-1" vertex="1">
+          <mxGeometry x="260" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QiPn1_x6uKjbwOPFFpC_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="d_cK_WEf3hAIwTRp0_HH-1" source="QiPn1_x6uKjbwOPFFpC_-1" target="QiPn1_x6uKjbwOPFFpC_-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d_cK_WEf3hAIwTRp0_HH-2" value="CLIENT 1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="d_cK_WEf3hAIwTRp0_HH-1">
-          <mxGeometry x="50" y="265" width="140" height="90" as="geometry" />
+        <mxCell id="QiPn1_x6uKjbwOPFFpC_-1" value="Web Api" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="d_cK_WEf3hAIwTRp0_HH-1">
+          <mxGeometry x="437.82" y="281.56" width="240.63" height="76.25" as="geometry" />
         </mxCell>
-        <mxCell id="d_cK_WEf3hAIwTRp0_HH-4" value="Company Portal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="d_cK_WEf3hAIwTRp0_HH-1">
-          <mxGeometry x="290" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="QiPn1_x6uKjbwOPFFpC_-6" value="PostgreSQL DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="d_cK_WEf3hAIwTRp0_HH-1">
+          <mxGeometry x="690.63" y="257.18" width="80" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="d_cK_WEf3hAIwTRp0_HH-5" value="Order Portal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="d_cK_WEf3hAIwTRp0_HH-1">
-          <mxGeometry x="290" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="QiPn1_x6uKjbwOPFFpC_-9" value="oauth token" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="d_cK_WEf3hAIwTRp0_HH-1">
+          <mxGeometry x="170" y="210" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="d_cK_WEf3hAIwTRp0_HH-6" value="Customer Portal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="d_cK_WEf3hAIwTRp0_HH-1">
-          <mxGeometry x="290" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="QiPn1_x6uKjbwOPFFpC_-11" value="oauth token" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="d_cK_WEf3hAIwTRp0_HH-1">
+          <mxGeometry x="180" y="300" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="d_cK_WEf3hAIwTRp0_HH-7" value="E-Commerce" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="d_cK_WEf3hAIwTRp0_HH-1">
-          <mxGeometry x="290" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="QiPn1_x6uKjbwOPFFpC_-13" value="oauth token validation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="d_cK_WEf3hAIwTRp0_HH-1">
+          <mxGeometry x="450" y="289.68" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="d_cK_WEf3hAIwTRp0_HH-8" value="Accounting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="d_cK_WEf3hAIwTRp0_HH-1">
-          <mxGeometry x="290" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="QiPn1_x6uKjbwOPFFpC_-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="d_cK_WEf3hAIwTRp0_HH-1" source="QiPn1_x6uKjbwOPFFpC_-16" target="d_cK_WEf3hAIwTRp0_HH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QiPn1_x6uKjbwOPFFpC_-16" value="Customers auth" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="d_cK_WEf3hAIwTRp0_HH-1">
+          <mxGeometry x="40" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QiPn1_x6uKjbwOPFFpC_-22" value="The customer will be created in Customer Cognito User Pool from Company/Order Portal. This UserPool will serve as the IDP for the customers to authenticate and login to the Customer Portal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="d_cK_WEf3hAIwTRp0_HH-1">
+          <mxGeometry x="10" y="450" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QiPn1_x6uKjbwOPFFpC_-24" value="oauth token" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="d_cK_WEf3hAIwTRp0_HH-1">
+          <mxGeometry x="170" y="382.18" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QiPn1_x6uKjbwOPFFpC_-28" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Company/Order/Customer Portal:&lt;/font&gt;&lt;/h1&gt;&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;p style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Company/Order/Customer Portal front end will be deployed as an angular app&lt;/p&gt;&lt;/font&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;Tech Stack:&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;Angular&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Typescript&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="d_cK_WEf3hAIwTRp0_HH-1">
+          <mxGeometry x="20" y="570" width="250" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="QiPn1_x6uKjbwOPFFpC_-31" value="" style="endArrow=none;html=1;" edge="1" parent="d_cK_WEf3hAIwTRp0_HH-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="825" as="sourcePoint" />
+            <mxPoint x="280" y="575" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QiPn1_x6uKjbwOPFFpC_-32" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Web API:&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;The web api is the business layer which has all of the business logic for OmegaCommerce&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tech Stack:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Visual Studio&lt;/p&gt;&lt;p&gt;.Net Core&lt;/p&gt;&lt;p&gt;Entity Framework&lt;/p&gt;&lt;p&gt;Logging to Cloudwatch logs&lt;/p&gt;&lt;p&gt;PostgreSQL DB Calls&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="d_cK_WEf3hAIwTRp0_HH-1">
+          <mxGeometry x="290" y="565" width="220" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="QiPn1_x6uKjbwOPFFpC_-33" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Database:&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;PostgreSQL is the backend DB that will be used. All transactional data(OLTP) will be go in one DB.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tech Stack:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;PostgreSQL&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="d_cK_WEf3hAIwTRp0_HH-1">
+          <mxGeometry x="550" y="565" width="205" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="QiPn1_x6uKjbwOPFFpC_-34" value="" style="endArrow=none;html=1;" edge="1" parent="d_cK_WEf3hAIwTRp0_HH-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="815" as="sourcePoint" />
+            <mxPoint x="530" y="565" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
