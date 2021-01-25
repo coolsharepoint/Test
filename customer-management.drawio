@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T21:13:49.568Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="7_zOWdddsR6KntO7GEaR" version="14.2.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-01-25T21:22:48.585Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="z8WINtCKIh3Mw5og_m8W" version="14.2.3" type="github" pages="4">
   <diagram id="E3Rx2xKXkaYTa4BLorXU" name="Landing-page">
     <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -144,7 +144,7 @@
         <mxCell id="QiPn1_x6uKjbwOPFFpC_-32" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Web API:&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;The web api is the business layer which has all of the business logic for OmegaCommerce&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tech Stack:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Visual Studio&lt;/p&gt;&lt;p&gt;.Net Core&lt;/p&gt;&lt;p&gt;Entity Framework&lt;/p&gt;&lt;p&gt;Logging to Cloudwatch logs&lt;/p&gt;&lt;p&gt;PostgreSQL DB Calls&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="d_cK_WEf3hAIwTRp0_HH-1">
           <mxGeometry x="290" y="565" width="220" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="QiPn1_x6uKjbwOPFFpC_-33" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Database:&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;PostgreSQL is the backend DB that will be used. All transactional data(OLTP) will be go in one DB.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tech Stack:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;PostgreSQL&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="d_cK_WEf3hAIwTRp0_HH-1">
+        <mxCell id="QiPn1_x6uKjbwOPFFpC_-33" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Database:&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;PostgreSQL will be used as backend DB. All transactional data(OLTP) will be go in one DB. For now, reports will be pulled from this database. Later reporting/OLAP DB will be set up.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tech Stack:&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;PostgreSQL&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="d_cK_WEf3hAIwTRp0_HH-1">
           <mxGeometry x="550" y="565" width="205" height="250" as="geometry" />
         </mxCell>
         <mxCell id="QiPn1_x6uKjbwOPFFpC_-34" value="" style="endArrow=none;html=1;" edge="1" parent="d_cK_WEf3hAIwTRp0_HH-1">
@@ -152,6 +152,9 @@
             <mxPoint x="530" y="815" as="sourcePoint" />
             <mxPoint x="530" y="565" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QiPn1_x6uKjbwOPFFpC_-35" value="OmegaCommerce Architecture" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="d_cK_WEf3hAIwTRp0_HH-1">
+          <mxGeometry x="290" y="30" width="310" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
