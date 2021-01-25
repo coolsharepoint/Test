@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T21:22:48.585Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="z8WINtCKIh3Mw5og_m8W" version="14.2.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-01-25T21:31:26.588Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="_EwJtkuuDGmisqOJGizO" version="14.2.3" type="github" pages="4">
   <diagram id="E3Rx2xKXkaYTa4BLorXU" name="Landing-page">
     <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -153,8 +153,8 @@
             <mxPoint x="530" y="565" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QiPn1_x6uKjbwOPFFpC_-35" value="OmegaCommerce Architecture" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="d_cK_WEf3hAIwTRp0_HH-1">
-          <mxGeometry x="290" y="30" width="310" height="20" as="geometry" />
+        <mxCell id="QiPn1_x6uKjbwOPFFpC_-36" value="&lt;h1&gt;OmegaCommerce Architecture&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="d_cK_WEf3hAIwTRp0_HH-1">
+          <mxGeometry x="250" y="30" width="370" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
