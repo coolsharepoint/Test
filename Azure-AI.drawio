@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T04:20:10.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="GCu6VM6pqC8IjjsQHAwv" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-25T04:20:34.988Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="XtogFN4ETstDs0T32nxC" version="14.2.9" type="github">
   <diagram id="4q3TvU9GvsHh-9Uh4sJ1" name="Page-1">
     <mxGraphModel dx="2128" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -47,7 +47,7 @@
           <mxGeometry x="-25" y="310" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vXOIyfoi4YBbrJylatdN-21" value="IoT Edge devices registered in IoT Hub" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="240" y="460" width="152" height="20" as="geometry" />
+          <mxGeometry x="264" y="456.5" width="152" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vXOIyfoi4YBbrJylatdN-23" value="Azure ML deployed as IoT Edge module" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-80" y="340" width="288.44" height="20" as="geometry" />
