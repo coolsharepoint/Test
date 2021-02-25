@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T04:03:05.553Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="IUIUeE6ErRMsNwRNvQmk" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-25T04:03:49.873Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="N-E9PgRP_Nz02VzpeSYr" version="14.2.9" type="github">
   <diagram id="4q3TvU9GvsHh-9Uh4sJ1" name="Page-1">
     <mxGraphModel dx="2128" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,6 +11,11 @@
         </mxCell>
         <mxCell id="vXOIyfoi4YBbrJylatdN-6" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/containers/Container_Registries.svg;" parent="1" vertex="1">
           <mxGeometry x="70" y="140" width="66.88" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_i8EFd46AW5TnAywRiRp-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vXOIyfoi4YBbrJylatdN-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="412.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vXOIyfoi4YBbrJylatdN-8" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/iot/IoT_Hub.svg;" parent="1" vertex="1">
           <mxGeometry x="310" y="380.5" width="64" height="64" as="geometry" />
