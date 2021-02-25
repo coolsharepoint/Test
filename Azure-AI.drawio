@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T04:20:34.988Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="XtogFN4ETstDs0T32nxC" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-25T05:41:13.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="ES-CzYdaiHEFe664OG72" version="14.2.9" type="github">
   <diagram id="4q3TvU9GvsHh-9Uh4sJ1" name="Page-1">
     <mxGraphModel dx="2128" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -110,8 +110,8 @@
         <mxCell id="_i8EFd46AW5TnAywRiRp-18" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;" vertex="1" parent="1">
           <mxGeometry x="333" y="590" width="42.03" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_i8EFd46AW5TnAywRiRp-19" value="Hololens" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="324.01" y="560" width="60" height="20" as="geometry" />
+        <mxCell id="_i8EFd46AW5TnAywRiRp-19" value="Hololens" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="319.01" y="570" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_i8EFd46AW5TnAywRiRp-22" value="Hololens subscribe to MQTT Topics &lt;br&gt;to receive messages real time" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="87.7" y="595" width="200" height="30" as="geometry" />
