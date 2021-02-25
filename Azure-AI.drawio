@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T04:03:49.873Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="N-E9PgRP_Nz02VzpeSYr" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-25T04:20:10.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="GCu6VM6pqC8IjjsQHAwv" version="14.2.9" type="github">
   <diagram id="4q3TvU9GvsHh-9Uh4sJ1" name="Page-1">
     <mxGraphModel dx="2128" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -135,19 +135,22 @@
           <mxGeometry x="10" y="424.5" width="60" height="27" as="geometry" />
         </mxCell>
         <mxCell id="_i8EFd46AW5TnAywRiRp-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="253" width="130" height="370" as="geometry" />
+          <mxGeometry x="780" y="240" width="130" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="_i8EFd46AW5TnAywRiRp-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_i8EFd46AW5TnAywRiRp-32" target="_i8EFd46AW5TnAywRiRp-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_i8EFd46AW5TnAywRiRp-32" value="Azure Notificaton Hub" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.notification_hub;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="278" width="50" height="50" as="geometry" />
+          <mxGeometry x="820" y="265" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_i8EFd46AW5TnAywRiRp-33" value="Azure Maps" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Maps.svg;" vertex="1" parent="1">
-          <mxGeometry x="831.78" y="363" width="39" height="50" as="geometry" />
+          <mxGeometry x="821.78" y="350" width="39" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_i8EFd46AW5TnAywRiRp-35" value="Azure Time Series" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/iot/Time_Series_Insights_Environments.svg;" vertex="1" parent="1">
-          <mxGeometry x="831.78" y="451.5" width="37.44" height="38" as="geometry" />
+          <mxGeometry x="821.78" y="438.5" width="37.44" height="38" as="geometry" />
         </mxCell>
         <mxCell id="_i8EFd46AW5TnAywRiRp-36" value="Power BI" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/function_icon_set/table_48.png" vertex="1" parent="1">
-          <mxGeometry x="826.5" y="526" width="48" height="48" as="geometry" />
+          <mxGeometry x="816.5" y="513" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_i8EFd46AW5TnAywRiRp-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_i8EFd46AW5TnAywRiRp-39">
           <mxGeometry relative="1" as="geometry">
@@ -171,11 +174,20 @@
         <mxCell id="_i8EFd46AW5TnAywRiRp-44" value="Azure Cosmos DB" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Cosmos_DB.svg;" vertex="1" parent="1">
           <mxGeometry x="633" y="396.85" width="32" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="_i8EFd46AW5TnAywRiRp-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.028;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_i8EFd46AW5TnAywRiRp-48" target="_i8EFd46AW5TnAywRiRp-31">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="_i8EFd46AW5TnAywRiRp-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="492.5" as="targetPoint" />
+            <mxPoint x="692.81" y="492.5" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_i8EFd46AW5TnAywRiRp-48" value="Azure ML/Cognitive Services" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/ai_machine_learning/Cognitive_Services.svg;" vertex="1" parent="1">
-          <mxGeometry x="626.14" y="473" width="56.67" height="40" as="geometry" />
+          <mxGeometry x="626.14" y="473" width="63.86" height="45.07" as="geometry" />
+        </mxCell>
+        <mxCell id="_i8EFd46AW5TnAywRiRp-52" value="warm path" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="390" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_i8EFd46AW5TnAywRiRp-53" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-10-128.png" vertex="1" parent="1">
+          <mxGeometry x="808" y="126" width="74" height="74" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
