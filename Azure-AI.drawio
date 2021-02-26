@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T05:41:13.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="ES-CzYdaiHEFe664OG72" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-26T03:33:51.188Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="IiVWBltAtr71zVZfTaPS" version="14.2.9" type="github">
   <diagram id="4q3TvU9GvsHh-9Uh4sJ1" name="Page-1">
-    <mxGraphModel dx="2128" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2214" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,7 +29,7 @@
           <mxGeometry x="-110" y="305" width="330" height="215" as="geometry" />
         </mxCell>
         <mxCell id="vXOIyfoi4YBbrJylatdN-12" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/preview/IoT_Edge.svg;" parent="1" vertex="1">
-          <mxGeometry x="110" y="391.5" width="47.7" height="47" as="geometry" />
+          <mxGeometry x="105.15" y="370" width="47.7" height="47" as="geometry" />
         </mxCell>
         <mxCell id="_i8EFd46AW5TnAywRiRp-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vXOIyfoi4YBbrJylatdN-19">
           <mxGeometry relative="1" as="geometry">
@@ -188,6 +188,9 @@
         </mxCell>
         <mxCell id="_i8EFd46AW5TnAywRiRp-53" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-10-128.png" vertex="1" parent="1">
           <mxGeometry x="808" y="126" width="74" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="_i8EFd46AW5TnAywRiRp-58" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mqtt_protocol;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="105.14999999999999" y="419.5" width="38" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
