@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-31T02:08:52.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="PthFLTU4V5wVhvzrJW8Q" version="14.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-31T02:09:53.318Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="ME_Sr7A6cfyaxy-rucv-" version="14.5.1" type="github" pages="2">
   <diagram id="4q3TvU9GvsHh-9Uh4sJ1" name="Page-1">
     <mxGraphModel dx="2128" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -302,7 +302,7 @@
         <mxCell id="TifcSykGQ0E4uyvGE8Pi-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TifcSykGQ0E4uyvGE8Pi-1" source="TifcSykGQ0E4uyvGE8Pi-47" target="TifcSykGQ0E4uyvGE8Pi-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TifcSykGQ0E4uyvGE8Pi-47" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/iot/Function_Apps.svg;" vertex="1" parent="TifcSykGQ0E4uyvGE8Pi-1">
+        <mxCell id="TifcSykGQ0E4uyvGE8Pi-47" value="Custom Azure Function" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/iot/Function_Apps.svg;" vertex="1" parent="TifcSykGQ0E4uyvGE8Pi-1">
           <mxGeometry x="475" y="393" width="45" height="39.7" as="geometry" />
         </mxCell>
         <mxCell id="TifcSykGQ0E4uyvGE8Pi-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="TifcSykGQ0E4uyvGE8Pi-1" source="TifcSykGQ0E4uyvGE8Pi-49" target="TifcSykGQ0E4uyvGE8Pi-43">
@@ -344,9 +344,6 @@
         <mxCell id="TifcSykGQ0E4uyvGE8Pi-63" value="Azure Logic App" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/integration/Logic_Apps.svg;" vertex="1" parent="TifcSykGQ0E4uyvGE8Pi-1">
           <mxGeometry x="710" y="430" width="48.96" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="TifcSykGQ0E4uyvGE8Pi-70" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="TifcSykGQ0E4uyvGE8Pi-1">
-          <mxGeometry x="470" y="370" width="30" height="16.5" as="geometry" />
-        </mxCell>
         <mxCell id="TifcSykGQ0E4uyvGE8Pi-71" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.email;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="TifcSykGQ0E4uyvGE8Pi-1">
           <mxGeometry x="835" y="421.2" width="40" height="30" as="geometry" />
         </mxCell>
@@ -363,6 +360,15 @@
         </mxCell>
         <mxCell id="TifcSykGQ0E4uyvGE8Pi-77" value="Azure Cognitive Services&lt;br&gt;Speech" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cognitive_Services.svg;" vertex="1" parent="TifcSykGQ0E4uyvGE8Pi-1">
           <mxGeometry x="152.85" y="140" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TifcSykGQ0E4uyvGE8Pi-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TifcSykGQ0E4uyvGE8Pi-1" source="TifcSykGQ0E4uyvGE8Pi-80" target="TifcSykGQ0E4uyvGE8Pi-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TifcSykGQ0E4uyvGE8Pi-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.559;entryY=-0.087;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="TifcSykGQ0E4uyvGE8Pi-1" source="TifcSykGQ0E4uyvGE8Pi-80" target="TifcSykGQ0E4uyvGE8Pi-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TifcSykGQ0E4uyvGE8Pi-80" value="Azure Percept &lt;br&gt;Studio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TifcSykGQ0E4uyvGE8Pi-1">
+          <mxGeometry x="2" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
