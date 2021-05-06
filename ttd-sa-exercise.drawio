@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-06T17:28:04.855Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="zh2Mrq8ac-Q0TrRtSzgM" version="14.6.9" type="github" pages="6">
+<mxfile modified="2021-05-06T17:32:03.025Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="iKMtHe6k0BQ4O66ymZrY" version="14.6.9" type="github" pages="6">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Architecture">
     <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -445,6 +445,9 @@
             <mxPoint x="6" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="O3brhAkvXbh6bj8XQRAt-0" value="&lt;b&gt;Add Creative&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="q7fVHRbjfziKEzvYae8t-1">
+          <mxGeometry x="218" y="70" width="110" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -626,7 +629,7 @@
           <mxGeometry x="540" y="229" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OtJ3j2cGYKmAKskK0xnt-3" value="Start Date" style="html=1;fillColor=none;strokeColor=none;fontSize=11;align=right;fontColor=#596780;whiteSpace=wrap;fontStyle=1" vertex="1" parent="Ls9zx_w2HFz-K94AEwjX-1">
-          <mxGeometry x="450" y="80" width="80" height="20" as="geometry" />
+          <mxGeometry x="470" y="80" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OtJ3j2cGYKmAKskK0xnt-5" value="05/10/2021" style="strokeColor=none;fillColor=none;fontSize=12;fontColor=#596780;align=left;html=1" vertex="1" parent="Ls9zx_w2HFz-K94AEwjX-1">
           <mxGeometry x="481" y="110" width="50" height="20" as="geometry" />
@@ -655,6 +658,9 @@
         <mxCell id="bPLk3HDjyhZAMbtqX_94-3" value="Disabled" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#7D868C;align=left;spacing=10;" vertex="1" parent="Ls9zx_w2HFz-K94AEwjX-1">
           <mxGeometry x="70" y="187" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VUe7d4iffXdZV15Ejt7_-0" value="&lt;b&gt;Campaigns&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ls9zx_w2HFz-K94AEwjX-1">
+          <mxGeometry x="180" y="40" width="110" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -682,25 +688,25 @@
           <mxGeometry x="220" y="140" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e3KC1v_-6eJVZM9ja5iy-13" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#999999;" vertex="1" parent="e3KC1v_-6eJVZM9ja5iy-1">
-          <mxGeometry x="350" y="180" width="170" height="70" as="geometry" />
+          <mxGeometry x="350" y="178" width="170" height="62" as="geometry" />
         </mxCell>
         <mxCell id="e3KC1v_-6eJVZM9ja5iy-14" value="Region A" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;" vertex="1" parent="e3KC1v_-6eJVZM9ja5iy-13">
           <mxGeometry width="170" height="20" relative="1" as="geometry">
-            <mxPoint y="10" as="offset" />
+            <mxPoint y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e3KC1v_-6eJVZM9ja5iy-15" value="Region B" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;" vertex="1" parent="e3KC1v_-6eJVZM9ja5iy-13">
           <mxGeometry width="170" height="20" relative="1" as="geometry">
-            <mxPoint y="30" as="offset" />
+            <mxPoint y="23" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e3KC1v_-6eJVZM9ja5iy-16" value="Region C" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;" vertex="1" parent="e3KC1v_-6eJVZM9ja5iy-13">
           <mxGeometry width="170" relative="1" as="geometry">
-            <mxPoint y="60" as="offset" />
+            <mxPoint y="53" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e3KC1v_-6eJVZM9ja5iy-11" value="Select Region" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#000000;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacingLeft=10;" vertex="1" parent="e3KC1v_-6eJVZM9ja5iy-1">
-          <mxGeometry x="350" y="150" width="140" height="40" as="geometry" />
+          <mxGeometry x="350" y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e3KC1v_-6eJVZM9ja5iy-12" value="" style="shape=triangle;direction=south;fillColor=#000000;strokeColor=none;perimeter=none;" vertex="1" parent="e3KC1v_-6eJVZM9ja5iy-11">
           <mxGeometry x="1" y="0.5" width="10" height="5" relative="1" as="geometry">
@@ -736,6 +742,9 @@
         </mxCell>
         <mxCell id="vnNxiyJuUuZsED8guYVJ-0" value="&lt;b&gt;Add Campaign&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="e3KC1v_-6eJVZM9ja5iy-1">
           <mxGeometry x="220" y="70" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xcjz-d4T5SjQ7t5uWmGw-0" value="On Region select, available Ad creatives for that Region will be shown to the user" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#99FFFF;" vertex="1" parent="e3KC1v_-6eJVZM9ja5iy-1">
+          <mxGeometry x="560" y="150" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
