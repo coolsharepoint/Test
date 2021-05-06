@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-06T17:37:01.137Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="YMMRUv0LycTrMVH1AYQ5" version="14.6.9" type="github" pages="6">
+<mxfile modified="2021-05-06T19:05:27.998Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="aEre_eHyXsLDiE7tCv-5" version="14.6.9" type="github" pages="6">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Architecture">
     <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
           <mxGeometry x="840" y="535.73" width="77.5" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="UEzPUAAOIrF-is8g5C7q-121" value="All application Logs stored &lt;br&gt;in Cloudwatch&amp;nbsp;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F34482;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cloudwatch;labelBackgroundColor=#ffffff;direction=west;" parent="1" vertex="1">
-          <mxGeometry x="730" y="650" width="70" height="70" as="geometry" />
+          <mxGeometry x="740" y="710" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fc9vdhBPrBxlH9aMz3zb-6" value="User uploads feed json file that contains the forecasted bush fire danger ratings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="315" y="60" width="130" height="57" as="geometry" />
@@ -66,8 +66,8 @@
         <mxCell id="fc9vdhBPrBxlH9aMz3zb-7" value="Lambda&lt;br&gt;function" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D05C17;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.lambda_function;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="640" y="119.5" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="fc9vdhBPrBxlH9aMz3zb-17" value="1. user enters &lt;br&gt;username/pwd" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="292" y="320" width="128" height="30" as="geometry" />
+        <mxCell id="fc9vdhBPrBxlH9aMz3zb-17" value="1. user enters&amp;nbsp;username/pwd" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="278" y="320" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fc9vdhBPrBxlH9aMz3zb-18" value="2. Return access_token" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="290" y="383.62" width="130" height="20" as="geometry" />
@@ -125,7 +125,7 @@
         <mxCell id="V-STVvqY2KK-GqgoBENX-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V-STVvqY2KK-GqgoBENX-22" target="UEzPUAAOIrF-is8g5C7q-121">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="662" y="690" />
+              <mxPoint x="662" y="745" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -210,6 +210,9 @@
         </mxCell>
         <mxCell id="blPUywzMEi4NAyKSb0v3-7" value="Ad Creatives &lt;br&gt;Assets S3 Bucket&lt;br&gt;separated by client" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;labelBackgroundColor=#ffffff;direction=south;" vertex="1" parent="1">
           <mxGeometry x="740.0000000000002" y="411" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="_FKkeHlfiOgtrvt1UTqH-2" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Lambda Execution &lt;br&gt;role&amp;nbsp;will have &lt;br&gt;access&amp;nbsp;to appropriate&lt;br&gt;dynamodb tables&lt;/span&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C7131F;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.addon;" vertex="1" parent="1">
+          <mxGeometry x="750" y="590" width="39" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
