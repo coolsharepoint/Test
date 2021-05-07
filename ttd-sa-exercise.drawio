@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-07T04:38:55.918Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="H5hENTHd2x6oGZ9s0ksE" version="14.6.9" type="github" pages="8">
+<mxfile modified="2021-05-07T04:41:34.787Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="r-w7A1LNeM50tPPmuKdb" version="14.6.9" type="github" pages="8">
   <diagram name="AdminPortal_Architecture" id="UWuMjynSm3yoGYZ7wEYc">
     <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -451,8 +451,8 @@
         <mxCell id="-qADH8aqK6CVSLKx4CMV-5" value="Apigatewat logs sent to cloudwatch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270.75" y="719" width="174.25" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-qADH8aqK6CVSLKx4CMV-6" value="ECS Fargate logs and application logs sent to cloudwatch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="675" width="174.25" height="20" as="geometry" />
+        <mxCell id="-qADH8aqK6CVSLKx4CMV-6" value="ECS &amp;amp; application &lt;br&gt;logs sent to cloudwatch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530.13" y="682.5" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-qADH8aqK6CVSLKx4CMV-7" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Metrics.svg;fillColor=#99FFFF;" vertex="1" parent="1">
           <mxGeometry x="488.66" y="780" width="27.69" height="30" as="geometry" />
@@ -491,6 +491,14 @@
         </mxCell>
         <mxCell id="eyamJoSEm8TuGqcu_-Pb-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eyamJoSEm8TuGqcu_-Pb-7" target="eyamJoSEm8TuGqcu_-Pb-21">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eyamJoSEm8TuGqcu_-Pb-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eyamJoSEm8TuGqcu_-Pb-7" target="K-_JjG2z_SURaJ40FDKq-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="725" y="720" />
+              <mxPoint x="668" y="720" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="eyamJoSEm8TuGqcu_-Pb-7" value="" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.redshift;" vertex="1" parent="1">
           <mxGeometry x="697" y="758.15" width="55.75" height="55.75" as="geometry" />
