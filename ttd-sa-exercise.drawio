@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-07T02:33:20.469Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="3M_8SqmV8KmH4NpIc35D" version="14.6.9" type="github" pages="7">
+<mxfile modified="2021-05-07T03:03:10.031Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="NLKrs727oxkAWT5vaGHc" version="14.6.9" type="github" pages="7">
   <diagram name="AdminPortal_Architecture" id="UWuMjynSm3yoGYZ7wEYc">
     <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -279,7 +279,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UEzPUAAOIrF-is8g5C7q-116" value="File &lt;br&gt;Storage bucket" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;labelBackgroundColor=#ffffff;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="480.0000000000002" y="120" width="78" height="78" as="geometry" />
+          <mxGeometry x="500" y="210" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-qADH8aqK6CVSLKx4CMV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UEzPUAAOIrF-is8g5C7q-121" target="-qADH8aqK6CVSLKx4CMV-7">
           <mxGeometry relative="1" as="geometry" />
@@ -299,7 +299,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fc9vdhBPrBxlH9aMz3zb-7" value="Lambda&lt;br&gt;function" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D05C17;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.lambda_function;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="640" y="119.5" width="78" height="78" as="geometry" />
+          <mxGeometry x="619.5" y="210" width="50.5" height="50.5" as="geometry" />
         </mxCell>
         <mxCell id="fc9vdhBPrBxlH9aMz3zb-17" value="1. user enters&amp;nbsp;username/pwd" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="278" y="320" width="170" height="30" as="geometry" />
@@ -375,13 +375,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V-STVvqY2KK-GqgoBENX-31" value="Publish to appropriate Slack&lt;br&gt;Channel Region on succesful &lt;br&gt;update of the feed in the &lt;br&gt;platform database" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/306_Slack_logo-128.png" vertex="1" parent="1">
-          <mxGeometry x="660" y="290" width="39" height="39" as="geometry" />
+          <mxGeometry x="625.25" y="320" width="39" height="39" as="geometry" />
         </mxCell>
         <mxCell id="XOwiEWo5WfRLnFHObfmR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fc9vdhBPrBxlH9aMz3zb-3" target="UEzPUAAOIrF-is8g5C7q-116">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fc9vdhBPrBxlH9aMz3zb-3" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="128.5" width="40" height="60" as="geometry" />
+          <mxGeometry x="400" y="207.63" width="30" height="54.75" as="geometry" />
         </mxCell>
         <mxCell id="1LnekZPHZ9DSW1RYu5sl-4" value="4. Validate access_token and scope" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="278" y="440" width="202" height="20" as="geometry" />
