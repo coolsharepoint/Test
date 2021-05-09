@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-09T05:08:04.692Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="a7o3KjW3O4s2n5D_6Xu-" version="14.6.9" type="github" pages="9">
+<mxfile modified="2021-05-09T05:22:51.265Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="VuCLGoyekwkvHnPfimk0" version="14.6.9" type="github" pages="9">
   <diagram name="AdminPortal_Architecture" id="UWuMjynSm3yoGYZ7wEYc">
     <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -601,7 +601,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zXhEfSg92vwtPYbZUS_4-25" value="CDN&lt;br&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloudfront;fillColor=#F58536;gradientColor=none;" vertex="1" parent="zXhEfSg92vwtPYbZUS_4-1">
-          <mxGeometry x="40" y="231.5" width="50" height="67" as="geometry" />
+          <mxGeometry x="40" y="231.5" width="50" height="68.5" as="geometry" />
         </mxCell>
         <mxCell id="zXhEfSg92vwtPYbZUS_4-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zXhEfSg92vwtPYbZUS_4-1" source="zXhEfSg92vwtPYbZUS_4-28" target="zXhEfSg92vwtPYbZUS_4-8">
           <mxGeometry relative="1" as="geometry" />
