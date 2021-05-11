@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-11T19:43:34.245Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="ZFr4QKofGOkFU8_5A5Gy" version="14.6.11" type="github" pages="11">
+<mxfile modified="2021-05-11T20:08:58.682Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="WoSzoSQcf1_rN9RCUn71" version="14.6.11" type="github" pages="11">
   <diagram name="AdminPortal_Architecture" id="UWuMjynSm3yoGYZ7wEYc">
     <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -819,7 +819,7 @@
         <mxCell id="Zj_jRq8zMhtGwX140t7x-0" />
         <mxCell id="Zj_jRq8zMhtGwX140t7x-1" parent="Zj_jRq8zMhtGwX140t7x-0" />
         <mxCell id="BbFUKMTbrANwPBOFiDiE-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/306_Slack_logo-128.png" vertex="1" parent="Zj_jRq8zMhtGwX140t7x-1">
-          <mxGeometry x="899.91" y="218" width="40.5" height="40.5" as="geometry" />
+          <mxGeometry x="1020" y="144.75" width="40.5" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="BbFUKMTbrANwPBOFiDiE-1" value="" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F54749;gradientDirection=north;fillColor=#C7131F;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.secrets_manager;" vertex="1" parent="Zj_jRq8zMhtGwX140t7x-1">
           <mxGeometry x="395.5" y="180" width="49" height="49" as="geometry" />
@@ -856,8 +856,8 @@
         <mxCell id="LlQFqKDainwyQ7CI_RsX-0" value="All Logs stored &lt;br&gt;in Cloudwatch&amp;nbsp;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F34482;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cloudwatch;labelBackgroundColor=#ffffff;direction=west;" vertex="1" parent="Zj_jRq8zMhtGwX140t7x-1">
           <mxGeometry x="397.5" y="460" width="45" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="LlQFqKDainwyQ7CI_RsX-8" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Assumptions&lt;/font&gt;&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;text-align: center&quot;&gt;Provider Api will be called to get the feed update&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center&quot;&gt;The messaging rules can be defined in the lambda because it is not going to change as per the requirement&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center&quot;&gt;Slack message is sent to the region&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center&quot;&gt;The output of the messaging rules, will be stored in db.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="Zj_jRq8zMhtGwX140t7x-1">
-          <mxGeometry x="560" y="400" width="290" height="190" as="geometry" />
+        <mxCell id="LlQFqKDainwyQ7CI_RsX-8" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Lambda Functionality:&lt;/font&gt;&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;text-align: center&quot;&gt;Provider Api will be called to get the feed update&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center&quot;&gt;On success, t&lt;/span&gt;he messaging rules will be applied and the output is stored in the DynamoDB.&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center&quot;&gt;Slack notification is sent to the each region before messaging is updated in the campaigns&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="Zj_jRq8zMhtGwX140t7x-1">
+          <mxGeometry x="720" y="229" width="360" height="161" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1720,44 +1720,44 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WB1VRyWfVdl7zXoG8gDf" name="Logical_Architecture">
-    <mxGraphModel dx="1293" dy="582" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="548" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Fh1z7w70MeVigOkW6zFo-0" />
         <mxCell id="Fh1z7w70MeVigOkW6zFo-1" parent="Fh1z7w70MeVigOkW6zFo-0" />
-        <mxCell id="Fh1z7w70MeVigOkW6zFo-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Fh1z7w70MeVigOkW6zFo-1" source="Fh1z7w70MeVigOkW6zFo-2" target="Fh1z7w70MeVigOkW6zFo-3">
+        <mxCell id="Fh1z7w70MeVigOkW6zFo-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="Fh1z7w70MeVigOkW6zFo-1" source="Fh1z7w70MeVigOkW6zFo-2" target="Fh1z7w70MeVigOkW6zFo-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fh1z7w70MeVigOkW6zFo-2" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
+        <mxCell id="Fh1z7w70MeVigOkW6zFo-2" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" parent="Fh1z7w70MeVigOkW6zFo-1" vertex="1">
           <mxGeometry x="51" y="211" width="46" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="U1pG3t2y1eWyl0VUenEj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Fh1z7w70MeVigOkW6zFo-1" source="Fh1z7w70MeVigOkW6zFo-3" target="Fh1z7w70MeVigOkW6zFo-4">
+        <mxCell id="U1pG3t2y1eWyl0VUenEj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="Fh1z7w70MeVigOkW6zFo-1" source="Fh1z7w70MeVigOkW6zFo-3" target="Fh1z7w70MeVigOkW6zFo-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fh1z7w70MeVigOkW6zFo-3" value="Login to the Campaign Portal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
+        <mxCell id="Fh1z7w70MeVigOkW6zFo-3" value="Login to the Campaign Portal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="Fh1z7w70MeVigOkW6zFo-1" vertex="1">
           <mxGeometry x="187" y="157" width="90" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="U1pG3t2y1eWyl0VUenEj-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Fh1z7w70MeVigOkW6zFo-1" source="Fh1z7w70MeVigOkW6zFo-4" target="U1pG3t2y1eWyl0VUenEj-0">
+        <mxCell id="U1pG3t2y1eWyl0VUenEj-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Fh1z7w70MeVigOkW6zFo-1" source="Fh1z7w70MeVigOkW6zFo-4" target="U1pG3t2y1eWyl0VUenEj-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fh1z7w70MeVigOkW6zFo-4" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.dashboard" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
+        <mxCell id="Fh1z7w70MeVigOkW6zFo-4" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.dashboard" parent="Fh1z7w70MeVigOkW6zFo-1" vertex="1">
           <mxGeometry x="184.5" y="257" width="95" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="U1pG3t2y1eWyl0VUenEj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Fh1z7w70MeVigOkW6zFo-1" source="U1pG3t2y1eWyl0VUenEj-0" target="U1pG3t2y1eWyl0VUenEj-3">
+        <mxCell id="U1pG3t2y1eWyl0VUenEj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Fh1z7w70MeVigOkW6zFo-1" source="U1pG3t2y1eWyl0VUenEj-0" target="U1pG3t2y1eWyl0VUenEj-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U1pG3t2y1eWyl0VUenEj-0" value="Update any metadata as needed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
+        <mxCell id="U1pG3t2y1eWyl0VUenEj-0" value="Update any metadata as needed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="Fh1z7w70MeVigOkW6zFo-1" vertex="1">
           <mxGeometry x="183.5" y="379" width="97" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U1pG3t2y1eWyl0VUenEj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Fh1z7w70MeVigOkW6zFo-1" source="U1pG3t2y1eWyl0VUenEj-2" target="U1pG3t2y1eWyl0VUenEj-3">
+        <mxCell id="U1pG3t2y1eWyl0VUenEj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="Fh1z7w70MeVigOkW6zFo-1" source="U1pG3t2y1eWyl0VUenEj-2" target="U1pG3t2y1eWyl0VUenEj-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U1pG3t2y1eWyl0VUenEj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=28.8525;entryPerimeter=0;" edge="1" parent="Fh1z7w70MeVigOkW6zFo-1" source="U1pG3t2y1eWyl0VUenEj-2" target="U1pG3t2y1eWyl0VUenEj-8">
+        <mxCell id="U1pG3t2y1eWyl0VUenEj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=28.8525;entryPerimeter=0;" parent="Fh1z7w70MeVigOkW6zFo-1" source="U1pG3t2y1eWyl0VUenEj-2" target="U1pG3t2y1eWyl0VUenEj-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U1pG3t2y1eWyl0VUenEj-2" value="Feed update process runs twice a day&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22PostgreSQL%20DB%22%20style%3D%22shape%3Dcylinder3%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BboundedLbl%3D1%3BbackgroundOutline%3D1%3Bsize%3D15%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22690.63%22%20y%3D%22257.18%22%20width%3D%2280%22%20height%3D%22125%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
+        <mxCell id="U1pG3t2y1eWyl0VUenEj-2" value="Feed update process runs twice a day&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22PostgreSQL%20DB%22%20style%3D%22shape%3Dcylinder3%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BboundedLbl%3D1%3BbackgroundOutline%3D1%3Bsize%3D15%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22690.63%22%20y%3D%22257.18%22%20width%3D%2280%22%20height%3D%22125%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="Fh1z7w70MeVigOkW6zFo-1" vertex="1">
           <mxGeometry x="612" y="290" width="97" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U1pG3t2y1eWyl0VUenEj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Fh1z7w70MeVigOkW6zFo-1" source="U1pG3t2y1eWyl0VUenEj-3" target="Fh1z7w70MeVigOkW6zFo-4">
+        <mxCell id="U1pG3t2y1eWyl0VUenEj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="Fh1z7w70MeVigOkW6zFo-1" source="U1pG3t2y1eWyl0VUenEj-3" target="Fh1z7w70MeVigOkW6zFo-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="481" y="337" />
@@ -1766,17 +1766,78 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="U1pG3t2y1eWyl0VUenEj-3" value="Portal&lt;br&gt;DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
+        <mxCell id="U1pG3t2y1eWyl0VUenEj-3" value="Portal&lt;br&gt;DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="Fh1z7w70MeVigOkW6zFo-1" vertex="1">
           <mxGeometry x="449" y="366.29" width="63.37" height="85.41" as="geometry" />
         </mxCell>
-        <mxCell id="U1pG3t2y1eWyl0VUenEj-6" value="Portal Dashboard" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
+        <mxCell id="U1pG3t2y1eWyl0VUenEj-6" value="Portal Dashboard" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="Fh1z7w70MeVigOkW6zFo-1" vertex="1">
           <mxGeometry x="183.5" y="329" width="104" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="U1pG3t2y1eWyl0VUenEj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.003;entryY=0.316;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Fh1z7w70MeVigOkW6zFo-1" source="U1pG3t2y1eWyl0VUenEj-8" target="Fh1z7w70MeVigOkW6zFo-4">
+        <mxCell id="U1pG3t2y1eWyl0VUenEj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.003;entryY=0.316;entryDx=0;entryDy=0;entryPerimeter=0;" parent="Fh1z7w70MeVigOkW6zFo-1" source="U1pG3t2y1eWyl0VUenEj-8" target="Fh1z7w70MeVigOkW6zFo-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U1pG3t2y1eWyl0VUenEj-8" value="Platform&lt;br&gt;API" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
+        <mxCell id="U1pG3t2y1eWyl0VUenEj-8" value="Platform&lt;br&gt;API" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="Fh1z7w70MeVigOkW6zFo-1" vertex="1">
           <mxGeometry x="449" y="157.00000000000003" width="63.37" height="85.41" as="geometry" />
+        </mxCell>
+        <mxCell id="8eSb0KJ8_gnrX_TbuVg4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Fh1z7w70MeVigOkW6zFo-1" source="8eSb0KJ8_gnrX_TbuVg4-0" target="8eSb0KJ8_gnrX_TbuVg4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8eSb0KJ8_gnrX_TbuVg4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Fh1z7w70MeVigOkW6zFo-1" source="8eSb0KJ8_gnrX_TbuVg4-0" target="8eSb0KJ8_gnrX_TbuVg4-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="185" y="544" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8eSb0KJ8_gnrX_TbuVg4-0" value="Feed update process runs by calling the provider api" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
+          <mxGeometry x="97" y="526" width="119" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="8eSb0KJ8_gnrX_TbuVg4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Fh1z7w70MeVigOkW6zFo-1" source="8eSb0KJ8_gnrX_TbuVg4-1" target="8eSb0KJ8_gnrX_TbuVg4-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8eSb0KJ8_gnrX_TbuVg4-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Fh1z7w70MeVigOkW6zFo-1" source="8eSb0KJ8_gnrX_TbuVg4-1" target="8eSb0KJ8_gnrX_TbuVg4-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8eSb0KJ8_gnrX_TbuVg4-1" value="Apply Messaging Rules&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
+          <mxGeometry x="292" y="518" width="90" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="8eSb0KJ8_gnrX_TbuVg4-3" value="On success" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
+          <mxGeometry x="215.5" y="530" width="72" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="8eSb0KJ8_gnrX_TbuVg4-6" value="Log &amp;amp; Notify the client that the feed call is failed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
+          <mxGeometry x="103" y="676" width="107" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="8eSb0KJ8_gnrX_TbuVg4-8" value="On Failure" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
+          <mxGeometry x="84" y="614" width="66" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="8eSb0KJ8_gnrX_TbuVg4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Fh1z7w70MeVigOkW6zFo-1" source="8eSb0KJ8_gnrX_TbuVg4-10" target="8eSb0KJ8_gnrX_TbuVg4-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8eSb0KJ8_gnrX_TbuVg4-10" value="Send Slack Notification for each Region" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
+          <mxGeometry x="466" y="518" width="90" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="8eSb0KJ8_gnrX_TbuVg4-14" value="On success" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
+          <mxGeometry x="388" y="526" width="72" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="8eSb0KJ8_gnrX_TbuVg4-15" value="Log &amp;amp; Notify the client that messaging rule apply is failed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
+          <mxGeometry x="273.75" y="675" width="126.5" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="8eSb0KJ8_gnrX_TbuVg4-17" value="On Failure" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
+          <mxGeometry x="273" y="627" width="66" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="8eSb0KJ8_gnrX_TbuVg4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Fh1z7w70MeVigOkW6zFo-1" source="8eSb0KJ8_gnrX_TbuVg4-18" target="8eSb0KJ8_gnrX_TbuVg4-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8eSb0KJ8_gnrX_TbuVg4-18" value="Update messaging data in Campaigns" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
+          <mxGeometry x="637" y="518" width="90" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="8eSb0KJ8_gnrX_TbuVg4-20" value="On success" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
+          <mxGeometry x="560" y="524" width="72" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="8eSb0KJ8_gnrX_TbuVg4-21" value="Log &amp;amp; Notify the client that the update to platform api if failed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
+          <mxGeometry x="620" y="678" width="124" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="8eSb0KJ8_gnrX_TbuVg4-23" value="On Failure" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
+          <mxGeometry x="684" y="621" width="66" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
