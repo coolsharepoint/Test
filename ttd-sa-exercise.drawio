@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-12T02:00:30.984Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="yPl2SD6bEWfIXdLdmOTf" version="14.6.11" type="github" pages="11">
+<mxfile modified="2021-05-12T04:17:24.172Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="wg0WHPwM4E_2wQ43S3SJ" version="14.6.11" type="github" pages="11">
   <diagram name="AdminPortal_Architecture" id="UWuMjynSm3yoGYZ7wEYc">
     <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1769,45 +1769,38 @@
         <mxCell id="23no7Nfpc9wpqFf5PdUe-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Fh1z7w70MeVigOkW6zFo-1" source="8eSb0KJ8_gnrX_TbuVg4-0" target="8eSb0KJ8_gnrX_TbuVg4-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="23no7Nfpc9wpqFf5PdUe-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="Fh1z7w70MeVigOkW6zFo-1" source="8eSb0KJ8_gnrX_TbuVg4-0" target="23no7Nfpc9wpqFf5PdUe-0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="8eSb0KJ8_gnrX_TbuVg4-0" value="Feed update process runs by calling the provider api" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
-          <mxGeometry x="97" y="526" width="119" height="56" as="geometry" />
+          <mxGeometry x="62" y="408" width="119" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="vWTuwrZlCSWvuzS9d2wO-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Fh1z7w70MeVigOkW6zFo-1" source="8eSb0KJ8_gnrX_TbuVg4-1" target="8eSb0KJ8_gnrX_TbuVg4-10">
+        <mxCell id="nP2MEUOlp5KxSaC_91nS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Fh1z7w70MeVigOkW6zFo-1" source="8eSb0KJ8_gnrX_TbuVg4-1" target="8eSb0KJ8_gnrX_TbuVg4-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vWTuwrZlCSWvuzS9d2wO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="Fh1z7w70MeVigOkW6zFo-1" source="8eSb0KJ8_gnrX_TbuVg4-1" target="8eSb0KJ8_gnrX_TbuVg4-18">
+        <mxCell id="nP2MEUOlp5KxSaC_91nS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Fh1z7w70MeVigOkW6zFo-1" source="8eSb0KJ8_gnrX_TbuVg4-1" target="8eSb0KJ8_gnrX_TbuVg4-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vWTuwrZlCSWvuzS9d2wO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="Fh1z7w70MeVigOkW6zFo-1" source="8eSb0KJ8_gnrX_TbuVg4-1" target="8eSb0KJ8_gnrX_TbuVg4-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="336" y="420" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="nP2MEUOlp5KxSaC_91nS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Fh1z7w70MeVigOkW6zFo-1" source="8eSb0KJ8_gnrX_TbuVg4-1" target="8eSb0KJ8_gnrX_TbuVg4-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8eSb0KJ8_gnrX_TbuVg4-1" value="Apply Messaging Rules predefined" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
-          <mxGeometry x="286.5" y="462" width="99.5" height="56" as="geometry" />
+          <mxGeometry x="248.75" y="408" width="116" height="56" as="geometry" />
         </mxCell>
         <mxCell id="8eSb0KJ8_gnrX_TbuVg4-3" value="On success" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
-          <mxGeometry x="215.5" y="530" width="72" height="18" as="geometry" />
+          <mxGeometry x="180.5" y="412" width="72" height="18" as="geometry" />
         </mxCell>
         <mxCell id="8eSb0KJ8_gnrX_TbuVg4-6" value="Log &amp;amp; Notify the client that the feed call is failed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
-          <mxGeometry x="103" y="676" width="107" height="56" as="geometry" />
+          <mxGeometry x="62" y="557" width="120" height="62" as="geometry" />
         </mxCell>
         <mxCell id="8eSb0KJ8_gnrX_TbuVg4-8" value="On Failure" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
-          <mxGeometry x="84" y="614" width="66" height="18" as="geometry" />
+          <mxGeometry x="55" y="498" width="66" height="18" as="geometry" />
         </mxCell>
         <mxCell id="8eSb0KJ8_gnrX_TbuVg4-10" value="Send Slack Notification for each Region" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
-          <mxGeometry x="454" y="406" width="90" height="56" as="geometry" />
+          <mxGeometry x="455" y="352" width="90" height="56" as="geometry" />
         </mxCell>
         <mxCell id="8eSb0KJ8_gnrX_TbuVg4-15" value="Log &amp;amp; Notify the client that messaging rule apply is failed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
-          <mxGeometry x="273" y="678" width="126.5" height="58" as="geometry" />
+          <mxGeometry x="243.5" y="559" width="126.5" height="58" as="geometry" />
         </mxCell>
         <mxCell id="8eSb0KJ8_gnrX_TbuVg4-17" value="On Failure" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
-          <mxGeometry x="273" y="625" width="66" height="18" as="geometry" />
+          <mxGeometry x="238" y="507" width="66" height="18" as="geometry" />
         </mxCell>
         <mxCell id="8eSb0KJ8_gnrX_TbuVg4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Fh1z7w70MeVigOkW6zFo-1" source="8eSb0KJ8_gnrX_TbuVg4-18" target="8eSb0KJ8_gnrX_TbuVg4-21">
           <mxGeometry relative="1" as="geometry" />
@@ -1816,31 +1809,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8eSb0KJ8_gnrX_TbuVg4-18" value="Update messaging data in Campaigns" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
-          <mxGeometry x="470" y="492" width="90" height="56" as="geometry" />
+          <mxGeometry x="455" y="460" width="90" height="56" as="geometry" />
         </mxCell>
         <mxCell id="8eSb0KJ8_gnrX_TbuVg4-20" value="On success" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
-          <mxGeometry x="577" y="442" width="72" height="18" as="geometry" />
+          <mxGeometry x="567" y="462" width="72" height="18" as="geometry" />
         </mxCell>
         <mxCell id="8eSb0KJ8_gnrX_TbuVg4-21" value="Log &amp;amp; Notify the client that the update to platform api if failed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
-          <mxGeometry x="570" y="684" width="124" height="52" as="geometry" />
+          <mxGeometry x="433" y="560" width="134" height="56" as="geometry" />
         </mxCell>
         <mxCell id="8eSb0KJ8_gnrX_TbuVg4-23" value="On Failure" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
-          <mxGeometry x="641.5" y="627" width="66" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="23no7Nfpc9wpqFf5PdUe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Fh1z7w70MeVigOkW6zFo-1" source="23no7Nfpc9wpqFf5PdUe-0" target="8eSb0KJ8_gnrX_TbuVg4-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vWTuwrZlCSWvuzS9d2wO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Fh1z7w70MeVigOkW6zFo-1" source="23no7Nfpc9wpqFf5PdUe-0" target="8eSb0KJ8_gnrX_TbuVg4-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vWTuwrZlCSWvuzS9d2wO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="Fh1z7w70MeVigOkW6zFo-1" source="23no7Nfpc9wpqFf5PdUe-0" target="8eSb0KJ8_gnrX_TbuVg4-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="23no7Nfpc9wpqFf5PdUe-0" value="Apply Messaging Rules Manually" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
-          <mxGeometry x="287.5" y="552" width="98.5" height="57" as="geometry" />
+          <mxGeometry x="509" y="529" width="66" height="18" as="geometry" />
         </mxCell>
         <mxCell id="vWTuwrZlCSWvuzS9d2wO-5" value="Send succes response to custom solution" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
-          <mxGeometry x="667" y="438" width="90" height="56" as="geometry" />
+          <mxGeometry x="655" y="460" width="90" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="nP2MEUOlp5KxSaC_91nS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Fh1z7w70MeVigOkW6zFo-1" source="nP2MEUOlp5KxSaC_91nS-5" target="nP2MEUOlp5KxSaC_91nS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nP2MEUOlp5KxSaC_91nS-5" value="UI that displays the campaigns" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
+          <mxGeometry x="114" y="693" width="119" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="nP2MEUOlp5KxSaC_91nS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Fh1z7w70MeVigOkW6zFo-1" source="nP2MEUOlp5KxSaC_91nS-6" target="nP2MEUOlp5KxSaC_91nS-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nP2MEUOlp5KxSaC_91nS-6" value="Override the Ad creative for that campaign manually" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
+          <mxGeometry x="301.5" y="693" width="119" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="nP2MEUOlp5KxSaC_91nS-8" value="call platform api to update the creative for the campaign" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="Fh1z7w70MeVigOkW6zFo-1">
+          <mxGeometry x="490" y="693" width="119" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
