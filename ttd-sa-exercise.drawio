@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-12T01:58:03.885Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="rWfUNls88VnWkyw-zoVC" version="14.6.11" type="github" pages="11">
+<mxfile modified="2021-05-12T02:00:30.984Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="yPl2SD6bEWfIXdLdmOTf" version="14.6.11" type="github" pages="11">
   <diagram name="AdminPortal_Architecture" id="UWuMjynSm3yoGYZ7wEYc">
     <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -826,11 +826,8 @@
       <root>
         <mxCell id="Zj_jRq8zMhtGwX140t7x-0" />
         <mxCell id="Zj_jRq8zMhtGwX140t7x-1" parent="Zj_jRq8zMhtGwX140t7x-0" />
-        <mxCell id="3hNfAfvXequztfQ2CVDt-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Zj_jRq8zMhtGwX140t7x-1" source="BbFUKMTbrANwPBOFiDiE-0" target="3hNfAfvXequztfQ2CVDt-0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="BbFUKMTbrANwPBOFiDiE-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/306_Slack_logo-128.png" vertex="1" parent="Zj_jRq8zMhtGwX140t7x-1">
-          <mxGeometry x="930" y="280.55" width="40.5" height="40.5" as="geometry" />
+          <mxGeometry x="933" y="290.3" width="40.5" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="BbFUKMTbrANwPBOFiDiE-1" value="" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F54749;gradientDirection=north;fillColor=#C7131F;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.secrets_manager;" vertex="1" parent="Zj_jRq8zMhtGwX140t7x-1">
           <mxGeometry x="395.5" y="180" width="49" height="49" as="geometry" />
@@ -865,10 +862,18 @@
           <mxGeometry x="400" y="428" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="LlQFqKDainwyQ7CI_RsX-8" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Lambda Functionality:&lt;/font&gt;&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;text-align: center&quot;&gt;When a new item is added to the dynamodb, the lambda will be invoked by dynamodb stream&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center&quot;&gt;The lambda will check if the previously selected ad creatives should be delievered or not. That check can happen by the value stored in custom solution or calling the Platform api.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center&quot;&gt;Apply the messaging rules. The rules can be defined in the lambda since it is not going to change as per the requirment.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center&quot;&gt;Slack notification is sent to the each region before messaging is updated in the campaigns&lt;/span&gt;&lt;/li&gt;&lt;li&gt;The final payload is modified and sent to the platform api to update Campaigns, postcodelist, latlonglist, creatives&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="Zj_jRq8zMhtGwX140t7x-1">
-          <mxGeometry x="720" y="530" width="420" height="216" as="geometry" />
+          <mxGeometry x="664" y="588" width="420" height="216" as="geometry" />
         </mxCell>
-        <mxCell id="3hNfAfvXequztfQ2CVDt-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="Zj_jRq8zMhtGwX140t7x-1" source="sXV9mtrtYl79B_3p0BEN-0" target="BbFUKMTbrANwPBOFiDiE-0">
+        <mxCell id="GwTQ1OQKm7Nq8Mz09FYJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Zj_jRq8zMhtGwX140t7x-1" source="sXV9mtrtYl79B_3p0BEN-0" target="BbFUKMTbrANwPBOFiDiE-0">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GwTQ1OQKm7Nq8Mz09FYJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.528;entryY=0.696;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Zj_jRq8zMhtGwX140t7x-1" source="sXV9mtrtYl79B_3p0BEN-0" target="3hNfAfvXequztfQ2CVDt-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="372" />
+              <mxPoint x="952" y="372" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="sXV9mtrtYl79B_3p0BEN-0" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D05C17;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.lambda_function;labelBackgroundColor=#ffffff;" vertex="1" parent="Zj_jRq8zMhtGwX140t7x-1">
           <mxGeometry x="810" y="290.18" width="40" height="40" as="geometry" />
@@ -888,7 +893,13 @@
           <mxGeometry x="755" y="332.74" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3hNfAfvXequztfQ2CVDt-0" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api" vertex="1" parent="Zj_jRq8zMhtGwX140t7x-1">
-          <mxGeometry x="926" y="380" width="50" height="48" as="geometry" />
+          <mxGeometry x="926" y="394" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="NcwLr1ouq6ouz_xh-WuM-0" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Publish to appropriate Slack&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Channel Region on succesful&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;update of the feed in the&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;campaign database&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="Zj_jRq8zMhtGwX140t7x-1">
+          <mxGeometry x="874" y="227.87" width="166" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="9FlujDgbfMXARfZjOdLt-0" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Call Platform api to &lt;br&gt;update the creative &lt;br&gt;to be displayed&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="Zj_jRq8zMhtGwX140t7x-1">
+          <mxGeometry x="897" y="449" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
