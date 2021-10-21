@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T16:04:11.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" version="15.5.0" etag="3zgwsprG00szOe7QHpVo" type="github"><diagram id="vretvbbjn9GuW6tMsoo9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-21T16:57:44.085Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="2laYIfhkVQlYSW5rcZHi" version="15.5.0" type="github">
+  <diagram id="vretvbbjn9GuW6tMsoo9" name="Page-1">
+    <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4FXnDJk-dTtMTGPGZGFG-5" value="Jira cloud" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4FXnDJk-dTtMTGPGZGFG-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="110" width="370" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="4FXnDJk-dTtMTGPGZGFG-7" value="Nessus Pro scan runs on schedule basis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="127.5" y="130" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4FXnDJk-dTtMTGPGZGFG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4FXnDJk-dTtMTGPGZGFG-8" target="4FXnDJk-dTtMTGPGZGFG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4FXnDJk-dTtMTGPGZGFG-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4FXnDJk-dTtMTGPGZGFG-8" target="4FXnDJk-dTtMTGPGZGFG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4FXnDJk-dTtMTGPGZGFG-8" value="Python script to call Nessus Pro api to get the vulnerablity list and calls jira api to create tasks" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100.63" y="217.5" width="188.75" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="4FXnDJk-dTtMTGPGZGFG-9" value="Nessus Pro server - Onprem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="90" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4FXnDJk-dTtMTGPGZGFG-11" value="api call using&amp;nbsp; jira api key" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="270" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4FXnDJk-dTtMTGPGZGFG-17" value="nessus api call" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="102.5" y="190" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4FXnDJk-dTtMTGPGZGFG-18" value="The python script will be deployed and scheduled to run on the Nessus Pro server because the server is on prem and not reachable outside" style="text;html=1;strokeColor=none;fillColor=#FFE6CC;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30.009999999999998" y="340" width="330" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
