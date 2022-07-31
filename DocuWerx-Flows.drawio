@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T19:52:57.455Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="wvEQBcyXeWNoVQTnIvf9" version="20.2.2" type="github">
-  <diagram id="qdNYXCg7bpaaKZranV8R" name="Page-1">
-    <mxGraphModel dx="1038" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2022-07-31T18:05:40.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="atjo2o21JRZdb7oMBAVm" version="20.2.2" type="github" pages="3">
+  <diagram id="qdNYXCg7bpaaKZranV8R" name="General Flow">
+    <mxGraphModel dx="1038" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,6 +100,9 @@
         <mxCell id="Yj3qIIUj6GRBObMRuDJy-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yj3qIIUj6GRBObMRuDJy-35" target="Yj3qIIUj6GRBObMRuDJy-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Yj3qIIUj6GRBObMRuDJy-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yj3qIIUj6GRBObMRuDJy-35" target="Yj3qIIUj6GRBObMRuDJy-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Yj3qIIUj6GRBObMRuDJy-35" value="General Notarizations" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="900" width="120" height="60" as="geometry" />
         </mxCell>
@@ -121,6 +124,9 @@
         <mxCell id="Yj3qIIUj6GRBObMRuDJy-39" value="Display options" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="nInzIYTURhhdn5_T9FPu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yj3qIIUj6GRBObMRuDJy-41" target="nInzIYTURhhdn5_T9FPu-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Yj3qIIUj6GRBObMRuDJy-41" value="Provide options to upload multiple documents - Max 5" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="635" y="980" width="120" height="60" as="geometry" />
         </mxCell>
@@ -136,11 +142,121 @@
         <mxCell id="Yj3qIIUj6GRBObMRuDJy-45" value="Max is 2 weeks" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Yj3qIIUj6GRBObMRuDJy-47" value="lets say $50" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Yj3qIIUj6GRBObMRuDJy-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yj3qIIUj6GRBObMRuDJy-47" target="Yj3qIIUj6GRBObMRuDJy-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj3qIIUj6GRBObMRuDJy-47" value="Pricing - say $50" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Yj3qIIUj6GRBObMRuDJy-49" value="lets say $25" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Yj3qIIUj6GRBObMRuDJy-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yj3qIIUj6GRBObMRuDJy-49" target="Yj3qIIUj6GRBObMRuDJy-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj3qIIUj6GRBObMRuDJy-49" value="Pricing - say $25" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj3qIIUj6GRBObMRuDJy-52" value="Find available Notary to notarize the document" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nInzIYTURhhdn5_T9FPu-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yj3qIIUj6GRBObMRuDJy-75" target="nInzIYTURhhdn5_T9FPu-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj3qIIUj6GRBObMRuDJy-75" value="&lt;div&gt;Affidavit,&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Affirmation,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Oath,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Jurat,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Protest&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="901" width="270" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="UOfrwwGHhxZlbDA5E32G-1" value="Digital Signatures&lt;br&gt;Digital Seals&lt;br&gt;Data Governance - Cold Storage&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1220" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nInzIYTURhhdn5_T9FPu-1" value="Document Portal Process" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="EO-kMHrDhmeIfAIbMAp8" name="Notary Public View">
+    <mxGraphModel dx="1038" dy="-515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nGEuTQb0R-dPEfBYsVuU-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nGEuTQb0R-dPEfBYsVuU-2" target="nGEuTQb0R-dPEfBYsVuU-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="1327.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nGEuTQb0R-dPEfBYsVuU-2" value="Sign up Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1297.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nGEuTQb0R-dPEfBYsVuU-3" value="Notary Public View" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="330" y="1230" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nGEuTQb0R-dPEfBYsVuU-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="nGEuTQb0R-dPEfBYsVuU-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="1327.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nGEuTQb0R-dPEfBYsVuU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nGEuTQb0R-dPEfBYsVuU-6" target="nGEuTQb0R-dPEfBYsVuU-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nGEuTQb0R-dPEfBYsVuU-6" value="Verify the background details" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1270" width="140" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="nGEuTQb0R-dPEfBYsVuU-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nGEuTQb0R-dPEfBYsVuU-9" target="nGEuTQb0R-dPEfBYsVuU-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nGEuTQb0R-dPEfBYsVuU-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nGEuTQb0R-dPEfBYsVuU-9" target="nGEuTQb0R-dPEfBYsVuU-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nGEuTQb0R-dPEfBYsVuU-9" value="Upload Background verification document" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1297.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nGEuTQb0R-dPEfBYsVuU-10" value="Background Verification process -&amp;nbsp; Get Background transaction no, Company that did the background check" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1296.25" width="160" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nGEuTQb0R-dPEfBYsVuU-11" value="Store the document to protect us" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1437.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nGEuTQb0R-dPEfBYsVuU-12" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nGEuTQb0R-dPEfBYsVuU-13" target="nGEuTQb0R-dPEfBYsVuU-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nGEuTQb0R-dPEfBYsVuU-13" value="Verify insurance expiration date, policy number" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1430" width="140" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="nGEuTQb0R-dPEfBYsVuU-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nGEuTQb0R-dPEfBYsVuU-15" target="nGEuTQb0R-dPEfBYsVuU-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nGEuTQb0R-dPEfBYsVuU-15" value="Sign up Success" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nGEuTQb0R-dPEfBYsVuU-16" value="Get working hours" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1690" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6hjmON2d9I351OMHpOZU" name="Document Portal">
+    <mxGraphModel dx="1038" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jovFy43OvlQA8zDbHBmV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jovFy43OvlQA8zDbHBmV-1" target="jovFy43OvlQA8zDbHBmV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jovFy43OvlQA8zDbHBmV-1" value="Upload digital document" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jovFy43OvlQA8zDbHBmV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jovFy43OvlQA8zDbHBmV-2" target="jovFy43OvlQA8zDbHBmV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IsmTqIYXlXQ39Wz1uAPL-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jovFy43OvlQA8zDbHBmV-2" target="IsmTqIYXlXQ39Wz1uAPL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jovFy43OvlQA8zDbHBmV-2" value="Display each page in the document in DocuWerx view" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jovFy43OvlQA8zDbHBmV-4" value="Capture these information from document:&lt;br&gt;&lt;br&gt;General Notarial data elements(Type of document, Date&amp;amp;Time, Location based on ip-address, Principal/Signer- customer)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="95" width="270" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="IsmTqIYXlXQ39Wz1uAPL-2" value="submit for notarization" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
