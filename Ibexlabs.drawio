@@ -1,1 +1,135 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T14:24:46.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.4.1" etag="dPrId2KkfV00Jfp1fSx5" type="github"><diagram id="0XGUWs_jtmoeqHulZko2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-20T14:53:51.021Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Zvj7sAxSNnegwPRPZ7ZZ" version="20.4.1" type="github" pages="2">
+  <diagram id="0XGUWs_jtmoeqHulZko2" name="Page-1">
+    <mxGraphModel dx="1278" dy="1679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KQXIgqedPZ9dpleUCaDe-1" target="KQXIgqedPZ9dpleUCaDe-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KQXIgqedPZ9dpleUCaDe-1" target="KQXIgqedPZ9dpleUCaDe-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KQXIgqedPZ9dpleUCaDe-1" target="KQXIgqedPZ9dpleUCaDe-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-1" value="AWS Organizations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KQXIgqedPZ9dpleUCaDe-2" target="KQXIgqedPZ9dpleUCaDe-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-2" value="Account 1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KQXIgqedPZ9dpleUCaDe-6" target="KQXIgqedPZ9dpleUCaDe-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-6" value="Account 2" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KQXIgqedPZ9dpleUCaDe-8" target="KQXIgqedPZ9dpleUCaDe-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-8" value="Account 3" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-11" value="Audit Logs&lt;br&gt;Config Management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-14" value="Audit Logs&lt;br&gt;Config Management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-16" value="Audit Logs&lt;br&gt;Config Management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KQXIgqedPZ9dpleUCaDe-21" target="KQXIgqedPZ9dpleUCaDe-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KQXIgqedPZ9dpleUCaDe-21" target="KQXIgqedPZ9dpleUCaDe-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KQXIgqedPZ9dpleUCaDe-21" target="KQXIgqedPZ9dpleUCaDe-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-21" value="AWS Organizations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KQXIgqedPZ9dpleUCaDe-23" target="KQXIgqedPZ9dpleUCaDe-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-23" value="Account 1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KQXIgqedPZ9dpleUCaDe-25" target="KQXIgqedPZ9dpleUCaDe-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-25" value="Account 2" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KQXIgqedPZ9dpleUCaDe-27" target="KQXIgqedPZ9dpleUCaDe-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-27" value="Account 3" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-28" value="Audit Logs&lt;br&gt;Config Management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-29" value="Audit Logs&lt;br&gt;Config Management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-30" value="Audit Logs&lt;br&gt;Config Management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KQXIgqedPZ9dpleUCaDe-31" target="KQXIgqedPZ9dpleUCaDe-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-31" value="AWS Expert" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-20" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KQXIgqedPZ9dpleUCaDe-32" target="KQXIgqedPZ9dpleUCaDe-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="275" y="100" />
+              <mxPoint x="160" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-38" value="creates script to deploy and &lt;br&gt;manage resources ongoing basis" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KQXIgqedPZ9dpleUCaDe-37">
+          <mxGeometry x="0.6502" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-32" value="AWS Expert" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-20" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KQXIgqedPZ9dpleUCaDe-35" target="KQXIgqedPZ9dpleUCaDe-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="345" y="120" />
+              <mxPoint x="160" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KQXIgqedPZ9dpleUCaDe-35" value="AWS Expert" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-20" width="30" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="e3CIQIxtgtvusKwqFgsH" name="Page-2">
+    <mxGraphModel dx="1278" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CGwkCpVUJ5II-NDwGQ_Q-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CGwkCpVUJ5II-NDwGQ_Q-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
