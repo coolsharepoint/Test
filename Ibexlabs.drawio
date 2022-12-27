@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-20T03:48:08.039Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ELpQttT-KibRsD7agv-3" version="20.6.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-12-27T00:16:50.233Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="nXM3iewA6jqto9bRLwcB" version="20.6.0" type="github" pages="14">
   <diagram id="0XGUWs_jtmoeqHulZko2" name="Page-1">
     <mxGraphModel dx="1278" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -114,6 +114,116 @@
         </mxCell>
         <mxCell id="KQXIgqedPZ9dpleUCaDe-35" value="AWS Expert" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="-20" width="30" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Cloud Faas" id="GUkDwAIClOdqT8lP2Qnm">
+    <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="COJxyDUqnVoYBw_k-W0X-0" />
+        <mxCell id="COJxyDUqnVoYBw_k-W0X-1" parent="COJxyDUqnVoYBw_k-W0X-0" />
+        <mxCell id="COJxyDUqnVoYBw_k-W0X-34" value="AWS Expert" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="COJxyDUqnVoYBw_k-W0X-1">
+          <mxGeometry x="70" y="110" width="30" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JjEgagi5WRfSyUqyJbr3" name="TimelyMD - PinPoint">
+    <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Cz_8RKUuk-RfwdIFQXf4-1" value="AWS Cloud" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#AAB7B8;fillColor=#FFFFFF;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="190" width="590" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz_8RKUuk-RfwdIFQXf4-17" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ShxSdQYI2JTTd2y2Edoo-1" target="Cz_8RKUuk-RfwdIFQXf4-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz_8RKUuk-RfwdIFQXf4-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ShxSdQYI2JTTd2y2Edoo-1" target="Cz_8RKUuk-RfwdIFQXf4-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="248" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cz_8RKUuk-RfwdIFQXf4-24" value="setup &amp;amp; configure &lt;br&gt;Pinpoint" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Cz_8RKUuk-RfwdIFQXf4-23">
+          <mxGeometry x="0.041" y="18" relative="1" as="geometry">
+            <mxPoint x="-14" y="-100" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ShxSdQYI2JTTd2y2Edoo-1" value="Ibexlabs" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="20" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz_8RKUuk-RfwdIFQXf4-28" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cz_8RKUuk-RfwdIFQXf4-9" target="Cz_8RKUuk-RfwdIFQXf4-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz_8RKUuk-RfwdIFQXf4-9" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.pinpoint;" vertex="1" parent="1">
+          <mxGeometry x="290" y="210" width="51" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz_8RKUuk-RfwdIFQXf4-14" value="Orchestrate Email campaign &lt;br&gt;using Amazon Pinpoint" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="400" y="170" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz_8RKUuk-RfwdIFQXf4-19" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cz_8RKUuk-RfwdIFQXf4-16" target="Cz_8RKUuk-RfwdIFQXf4-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz_8RKUuk-RfwdIFQXf4-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Cz_8RKUuk-RfwdIFQXf4-16" target="Cz_8RKUuk-RfwdIFQXf4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz_8RKUuk-RfwdIFQXf4-22" value="push templates to &lt;br&gt;AWS Pinpoint" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Cz_8RKUuk-RfwdIFQXf4-20">
+          <mxGeometry x="-0.3257" y="16" relative="1" as="geometry">
+            <mxPoint x="14" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cz_8RKUuk-RfwdIFQXf4-16" value="Create Dynamic Rich HTML Email Templates&amp;nbsp;" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="205" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz_8RKUuk-RfwdIFQXf4-26" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cz_8RKUuk-RfwdIFQXf4-18" target="Cz_8RKUuk-RfwdIFQXf4-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz_8RKUuk-RfwdIFQXf4-18" value="&lt;br&gt;using stripo.email" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="405" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz_8RKUuk-RfwdIFQXf4-25" value="Email Templates stored in Stripo.email" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="610" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz_8RKUuk-RfwdIFQXf4-30" value="use stripo.email &lt;br&gt;templates" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Cz_8RKUuk-RfwdIFQXf4-27" target="Cz_8RKUuk-RfwdIFQXf4-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz_8RKUuk-RfwdIFQXf4-27" value="Create Campaigns&lt;br&gt;Create Segments" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#3334B9;strokeColor=#FFFFFF;fontColor=#ffffff;sketch=0;gradientColor=#4D72F3;gradientDirection=north;dashed=0;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="248.25" y="301" width="134.5" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz_8RKUuk-RfwdIFQXf4-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cz_8RKUuk-RfwdIFQXf4-29" target="Cz_8RKUuk-RfwdIFQXf4-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz_8RKUuk-RfwdIFQXf4-29" value="Use Rich HTML Template to fill segment values" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#3334B9;strokeColor=#FFFFFF;fontColor=#ffffff;sketch=0;gradientColor=#4D72F3;gradientDirection=north;dashed=0;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="382.75" y="420" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz_8RKUuk-RfwdIFQXf4-31" value="&lt;br&gt;Publish Campaign" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#3334B9;strokeColor=#FFFFFF;fontColor=#ffffff;sketch=0;gradientColor=#4D72F3;gradientDirection=north;dashed=0;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="420" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz_8RKUuk-RfwdIFQXf4-33" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#2E27AD;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_instance;" vertex="1" parent="1">
+          <mxGeometry x="660" y="250" width="47" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="T35F-kOpHplPpxKrQZph-2" value="pull contacts" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T35F-kOpHplPpxKrQZph-1" target="Cz_8RKUuk-RfwdIFQXf4-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T35F-kOpHplPpxKrQZph-3" value="import contacts to &lt;br&gt;create segments" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T35F-kOpHplPpxKrQZph-1" target="Cz_8RKUuk-RfwdIFQXf4-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T35F-kOpHplPpxKrQZph-1" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.lambda_function;" vertex="1" parent="1">
+          <mxGeometry x="510" y="250" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="T35F-kOpHplPpxKrQZph-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="T35F-kOpHplPpxKrQZph-4" target="Cz_8RKUuk-RfwdIFQXf4-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T35F-kOpHplPpxKrQZph-9" value="Ibexlabs to guide TimelyMD&lt;br&gt;&amp;nbsp;to&amp;nbsp;create Templates" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T35F-kOpHplPpxKrQZph-8">
+          <mxGeometry x="-0.4084" y="11" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T35F-kOpHplPpxKrQZph-4" value="TimelyMD" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="270" width="30" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -2167,7 +2277,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="StQFc2ihNPE2MyQAEOYZ" name="Page-12">
+  <diagram id="StQFc2ihNPE2MyQAEOYZ" name="Ermetic Control Tower">
     <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
