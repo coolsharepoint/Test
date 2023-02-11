@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-11T22:12:34.436Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="CurlaZRDa2mOLGUuQNiQ" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-11T22:20:02.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="xefWXLrFMXsVO0qcgbIE" version="20.8.20" type="github" pages="2">
   <diagram id="zhPuj6izKf-El-VcQIsU" name="Page-1">
     <mxGraphModel dx="1290" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -47,12 +47,12 @@
           <mxGeometry x="340" y="40" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jdCF62me6mRUtdHBRK2F-2" value="CSO/Partner&lt;br&gt;Arun" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="150" width="110" height="40" as="geometry" />
+          <mxGeometry x="40" y="120" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jdCF62me6mRUtdHBRK2F-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.564;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="jdCF62me6mRUtdHBRK2F-3" target="jdCF62me6mRUtdHBRK2F-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jdCF62me6mRUtdHBRK2F-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jdCF62me6mRUtdHBRK2F-3" target="jdCF62me6mRUtdHBRK2F-6" edge="1">
+        <mxCell id="jdCF62me6mRUtdHBRK2F-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="jdCF62me6mRUtdHBRK2F-3" target="jdCF62me6mRUtdHBRK2F-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jdCF62me6mRUtdHBRK2F-3" value="CRO&lt;br&gt;Kyle" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -62,7 +62,7 @@
           <mxGeometry x="1050" y="240" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jdCF62me6mRUtdHBRK2F-6" value="Head of Sales - India&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Hansraj" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1250" y="240" width="130" height="40" as="geometry" />
+          <mxGeometry x="1420" y="240" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_2zsdvVcME8JWid-AY3Q-1" value="Ibexlabs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="-50" width="110" height="40" as="geometry" />
@@ -237,6 +237,12 @@
             <mxPoint x="160" y="240" as="sourcePoint" />
             <mxPoint x="260" y="160" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_2zsdvVcME8JWid-AY3Q-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jdCF62me6mRUtdHBRK2F-3" target="_2zsdvVcME8JWid-AY3Q-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_2zsdvVcME8JWid-AY3Q-104" value="Sales Manager - Central" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="240" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
