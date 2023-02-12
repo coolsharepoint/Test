@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-11T22:20:02.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="xefWXLrFMXsVO0qcgbIE" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-12T16:31:35.673Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="3rc5bx4BISd1bJcckJrp" version="20.8.20" type="github" pages="2">
   <diagram id="zhPuj6izKf-El-VcQIsU" name="Page-1">
     <mxGraphModel dx="1290" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FYVs-mCgX2ePvRQR7abV" name="Org Chart">
-    <mxGraphModel dx="2693" dy="1884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3218" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,7 +85,10 @@
             <mxPoint x="450" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_2zsdvVcME8JWid-AY3Q-15" value="&lt;b&gt;Platform Team - DevOps&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="_2zsdvVcME8JWid-AY3Q-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.48;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_2zsdvVcME8JWid-AY3Q-15" target="_2zsdvVcME8JWid-AY3Q-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_2zsdvVcME8JWid-AY3Q-15" value="&lt;b&gt;Team - DevOps&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-470" y="260" width="450" height="530" as="geometry" />
         </mxCell>
         <mxCell id="_2zsdvVcME8JWid-AY3Q-17" value="POD 2" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
@@ -97,10 +100,13 @@
         <mxCell id="_2zsdvVcME8JWid-AY3Q-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.359;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_2zsdvVcME8JWid-AY3Q-18" target="_2zsdvVcME8JWid-AY3Q-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_2zsdvVcME8JWid-AY3Q-18" value="PM - US&lt;br&gt;??&lt;br&gt;&lt;br&gt;PreSales Architect" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="403.62" width="90" height="92.75" as="geometry" />
+        <mxCell id="_2zsdvVcME8JWid-AY3Q-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_2zsdvVcME8JWid-AY3Q-18" target="_2zsdvVcME8JWid-AY3Q-96">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_2zsdvVcME8JWid-AY3Q-19" value="Delivery Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_2zsdvVcME8JWid-AY3Q-18" value="PM - US(Q2 start)&lt;br&gt;??&lt;br&gt;&lt;br&gt;PreSales Architect/Delivery Manager(Q2 start)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="403.62" width="110" height="92.75" as="geometry" />
+        </mxCell>
+        <mxCell id="_2zsdvVcME8JWid-AY3Q-19" value="Delivery Manager(Q2 start)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-430" y="300" width="370" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_2zsdvVcME8JWid-AY3Q-20" value="DevOps Lead&lt;br&gt;Santosh" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -154,7 +160,10 @@
         <mxCell id="_2zsdvVcME8JWid-AY3Q-40" value="DevOps Engineer&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-205" y="650" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_2zsdvVcME8JWid-AY3Q-42" value="&lt;b&gt;Platform Team - Engineering&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="_2zsdvVcME8JWid-AY3Q-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.927;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_2zsdvVcME8JWid-AY3Q-42" target="_2zsdvVcME8JWid-AY3Q-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_2zsdvVcME8JWid-AY3Q-42" value="&lt;b&gt;Team - Development POD&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="220" y="260" width="400" height="530" as="geometry" />
         </mxCell>
         <mxCell id="_2zsdvVcME8JWid-AY3Q-45" value="Delivery Manager&lt;br&gt;Manjunath" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -164,12 +173,12 @@
           <mxGeometry x="247.5" y="367.25" width="155" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_2zsdvVcME8JWid-AY3Q-58" value="Lead Front End Engineer&lt;br&gt;Aman" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="247.5" y="418.5" width="155" height="30" as="geometry" />
+          <mxGeometry x="247.5" y="498.5" width="155" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_2zsdvVcME8JWid-AY3Q-63" value="Lead Front End Engineer&lt;br&gt;Pooja" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="247.5" y="465" width="155" height="30" as="geometry" />
+          <mxGeometry x="247.5" y="545" width="155" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_2zsdvVcME8JWid-AY3Q-74" value="Lead QA Engineer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_2zsdvVcME8JWid-AY3Q-74" value="Lead QA Engineer(Q2 Start)&lt;br&gt;??" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="447.5" y="367.25" width="155" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_2zsdvVcME8JWid-AY3Q-77" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jdCF62me6mRUtdHBRK2F-2" target="_2zsdvVcME8JWid-AY3Q-18">
@@ -196,8 +205,8 @@
         <mxCell id="_2zsdvVcME8JWid-AY3Q-82" value="Marketing Manager - India&lt;br&gt;Sonali" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="240" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_2zsdvVcME8JWid-AY3Q-85" value="MSP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="820" width="890" height="50" as="geometry" />
+        <mxCell id="_2zsdvVcME8JWid-AY3Q-85" value="SRE &amp;amp; Observability" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-970" y="850" width="1510" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_2zsdvVcME8JWid-AY3Q-86" value="Operations - US&lt;br&gt;??" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="160" width="130" height="40" as="geometry" />
@@ -223,7 +232,7 @@
         <mxCell id="_2zsdvVcME8JWid-AY3Q-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.705;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_2zsdvVcME8JWid-AY3Q-96" target="_2zsdvVcME8JWid-AY3Q-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_2zsdvVcME8JWid-AY3Q-96" value="PM - India&lt;br&gt;Vaishali&lt;br&gt;&lt;br&gt;AWS Architect" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_2zsdvVcME8JWid-AY3Q-96" value="PM - India&lt;br&gt;Vaishali&lt;br&gt;&lt;br&gt;AWS Architect(Q2 start)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="587.25" width="90" height="92.75" as="geometry" />
         </mxCell>
         <mxCell id="_2zsdvVcME8JWid-AY3Q-102" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="_2zsdvVcME8JWid-AY3Q-15" target="jdCF62me6mRUtdHBRK2F-2">
@@ -243,6 +252,36 @@
         </mxCell>
         <mxCell id="_2zsdvVcME8JWid-AY3Q-104" value="Sales Manager - Central" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="240" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_2zsdvVcME8JWid-AY3Q-107" value="Front End Engineer&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="600" width="155" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_2zsdvVcME8JWid-AY3Q-109" value="Front End Engineer&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="650" width="155" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_2zsdvVcME8JWid-AY3Q-110" value="Backend Engineer(2 - Q1 End)&lt;br&gt;??" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="233.75" y="426.12" width="182.5" height="42.75" as="geometry" />
+        </mxCell>
+        <mxCell id="_2zsdvVcME8JWid-AY3Q-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_2zsdvVcME8JWid-AY3Q-112" target="_2zsdvVcME8JWid-AY3Q-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_2zsdvVcME8JWid-AY3Q-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.133;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_2zsdvVcME8JWid-AY3Q-112" target="_2zsdvVcME8JWid-AY3Q-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_2zsdvVcME8JWid-AY3Q-112" value="&lt;b&gt;Solution POD&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-970" y="330" width="400" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="_2zsdvVcME8JWid-AY3Q-113" value="Delivery Lead" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-930" y="480" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_2zsdvVcME8JWid-AY3Q-114" value="AWS Engineer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-942.5" y="367.25" width="155" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_2zsdvVcME8JWid-AY3Q-115" value="Front End Engineer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-942.5" y="426.12" width="155" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_2zsdvVcME8JWid-AY3Q-117" value="Lead QA Engineer(Q2 Start)&lt;br&gt;??" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-742.5" y="367.25" width="155" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
