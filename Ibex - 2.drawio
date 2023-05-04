@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T02:27:02.307Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="q7c2qc-_nnIkHsJItIcY" version="21.2.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-04T02:31:59.531Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="GtEidhQrduEN3OE0oqwu" version="21.2.3" type="github" pages="5">
   <diagram id="zhPuj6izKf-El-VcQIsU" name="Page-1">
     <mxGraphModel dx="1290" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -626,7 +626,7 @@
             <mxPoint x="30" y="19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rVkpsPqP3VEokP1OBmzo-28" value="vendor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="rVkpsPqP3VEokP1OBmzo-28" value="supplier" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="210" width="30" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rVkpsPqP3VEokP1OBmzo-32" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#BF0816;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.data_encryption_key;" vertex="1" parent="1">
@@ -643,7 +643,7 @@
         <mxCell id="rVkpsPqP3VEokP1OBmzo-58" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rVkpsPqP3VEokP1OBmzo-44" target="rVkpsPqP3VEokP1OBmzo-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rVkpsPqP3VEokP1OBmzo-59" value="send acknowledgement to vendor" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rVkpsPqP3VEokP1OBmzo-58">
+        <mxCell id="rVkpsPqP3VEokP1OBmzo-59" value="send acknowledgement to supplier" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rVkpsPqP3VEokP1OBmzo-58">
           <mxGeometry x="-0.0012" y="-18" relative="1" as="geometry">
             <mxPoint x="-49" y="-7" as="offset" />
           </mxGeometry>
