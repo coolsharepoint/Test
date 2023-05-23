@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T19:24:50.469Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="rPxvw3mWf08ysIV_WmIa" version="20.8.21" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-05-23T00:50:41.818Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="YzmQXbMa3kJ4pG8Trm4q" version="21.3.2" type="github" pages="14">
   <diagram id="0XGUWs_jtmoeqHulZko2" name="Page-1">
-    <mxGraphModel dx="1290" dy="1649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="1649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -265,7 +265,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IHIOHdfTsFOcxNurMp4l" name="CYC - Option 1">
-    <mxGraphModel dx="2128" dy="547" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1900" dy="549" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -525,7 +525,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="CYC - Option 2" id="tPiSiDRCsRpdcWmW333D">
-    <mxGraphModel dx="2128" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1900" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="BRuZQA1ETGO7afZGwB2q-0" />
         <mxCell id="BRuZQA1ETGO7afZGwB2q-1" parent="BRuZQA1ETGO7afZGwB2q-0" />
@@ -781,7 +781,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2ztBFHUOFgY6476PAMKi" name="CYC - Deployment Process">
-    <mxGraphModel dx="2128" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1900" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -916,7 +916,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="t5BLGNX0zwb8sLhHQgP0" name="Grand&amp;Toy">
-    <mxGraphModel dx="1278" dy="547" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="549" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -988,7 +988,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CTVqKxhxKVQcMtoX7Bss" name="FinTech - App Architecture">
-    <mxGraphModel dx="1290" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1063,7 +1063,7 @@
         <mxCell id="ydxPo51Qu1j1o0_4QrcG-16" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.client;" parent="1" vertex="1">
           <mxGeometry x="112.33" y="343.5" width="71.84" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ydxPo51Qu1j1o0_4QrcG-17" value="Angular Front end &lt;br&gt;Static Files(html/js/css)&lt;br&gt;(private + encrypted)" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;labelBackgroundColor=#ffffff;direction=south;" parent="1" vertex="1">
+        <mxCell id="ydxPo51Qu1j1o0_4QrcG-17" value="Front end &lt;br&gt;Static Files(html/js/css)&lt;br&gt;(private + encrypted)" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;labelBackgroundColor=#ffffff;direction=south;" parent="1" vertex="1">
           <mxGeometry x="352.5" y="187.5" width="52.5" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="ydxPo51Qu1j1o0_4QrcG-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ydxPo51Qu1j1o0_4QrcG-20" target="ydxPo51Qu1j1o0_4QrcG-7" edge="1">
