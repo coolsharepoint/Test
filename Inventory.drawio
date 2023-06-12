@@ -1,0 +1,242 @@
+<mxfile host="app.diagrams.net" modified="2023-06-12T16:56:24.863Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Rmmmc5CbAVUsvLNaJAyy" version="21.3.8" type="github" pages="2">
+  <diagram id="W4yDlyYxbcRbiXH_1atV" name="Inventory PO Flow">
+    <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="g0d5-84XzgPwsy4MD43Z-2" value="Create location, stock group, UOM,&lt;br&gt;Stock Item like Washing m/c&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="110" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UKfJUS92yddIRWu5pnDz-1" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="g0d5-84XzgPwsy4MD43Z-2" target="1vdW91UmRWIIBsT2FqH--1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="250" as="sourcePoint" />
+            <mxPoint x="270" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1vdW91UmRWIIBsT2FqH--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1vdW91UmRWIIBsT2FqH--1" target="1vdW91UmRWIIBsT2FqH--2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdW91UmRWIIBsT2FqH--1" value="Create vendor to purchase the stock item" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdW91UmRWIIBsT2FqH--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1vdW91UmRWIIBsT2FqH--2" target="1vdW91UmRWIIBsT2FqH--5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdW91UmRWIIBsT2FqH--2" value="Find best prices of stock item" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="125" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdW91UmRWIIBsT2FqH--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1vdW91UmRWIIBsT2FqH--5" target="1vdW91UmRWIIBsT2FqH--7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdW91UmRWIIBsT2FqH--5" value="select lowest seller to purchase from" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="615" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdW91UmRWIIBsT2FqH--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1vdW91UmRWIIBsT2FqH--7" target="1vdW91UmRWIIBsT2FqH--9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdW91UmRWIIBsT2FqH--7" value="place PO through email/phone/sms" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="250" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdW91UmRWIIBsT2FqH--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1vdW91UmRWIIBsT2FqH--9" target="1vdW91UmRWIIBsT2FqH--11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="200" />
+              <mxPoint x="600" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1vdW91UmRWIIBsT2FqH--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1vdW91UmRWIIBsT2FqH--9" target="1vdW91UmRWIIBsT2FqH--14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdW91UmRWIIBsT2FqH--9" value="Confirmation of PO from the seller by any means" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="250" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdW91UmRWIIBsT2FqH--11" value="Send alerts about pending orders for more than delivery days per stock item" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="740" y="170" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdW91UmRWIIBsT2FqH--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1vdW91UmRWIIBsT2FqH--14" target="1vdW91UmRWIIBsT2FqH--17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdW91UmRWIIBsT2FqH--14" value="Received the item and stored in a customer warehouse" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdW91UmRWIIBsT2FqH--16" value="INVENTORY PO FLOW" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="395" y="50" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdW91UmRWIIBsT2FqH--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="1vdW91UmRWIIBsT2FqH--17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1vdW91UmRWIIBsT2FqH--17" value="receive the receipt note from the seller delivering (GRN)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdW91UmRWIIBsT2FqH--21" value="Goods in transit" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="330" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdW91UmRWIIBsT2FqH--23" value="" style="endArrow=classic;html=1;" parent="1" target="1vdW91UmRWIIBsT2FqH--21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="280" as="sourcePoint" />
+            <mxPoint x="450" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1vdW91UmRWIIBsT2FqH--27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1vdW91UmRWIIBsT2FqH--24" target="1vdW91UmRWIIBsT2FqH--25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdW91UmRWIIBsT2FqH--24" value="capture details like who received, invoice etc and enter in the app" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdW91UmRWIIBsT2FqH--29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1vdW91UmRWIIBsT2FqH--25" target="1vdW91UmRWIIBsT2FqH--28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdW91UmRWIIBsT2FqH--25" value="add invoice details and map to the stock item. And order is closed." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdW91UmRWIIBsT2FqH--28" value="create inventory voucher" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="G2Ju4BBsuN80PCTIcE5X" name="BDG HealthCheck Api Flow">
+    <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="sPULL8hsvBPX46dCANxg-0" />
+        <mxCell id="sPULL8hsvBPX46dCANxg-1" parent="sPULL8hsvBPX46dCANxg-0" />
+        <mxCell id="sPULL8hsvBPX46dCANxg-7" value="Service fabric Cluster" style="swimlane;startSize=23;" parent="sPULL8hsvBPX46dCANxg-1" vertex="1">
+          <mxGeometry x="220" y="310" width="440" height="180" as="geometry">
+            <mxRectangle x="300" y="300" width="90" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-3" value="BDG Instance 1" style="rounded=0;whiteSpace=wrap;html=1;" parent="sPULL8hsvBPX46dCANxg-7" vertex="1">
+          <mxGeometry x="20" y="70" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-4" value="BDG Instance 2" style="rounded=0;whiteSpace=wrap;html=1;" parent="sPULL8hsvBPX46dCANxg-7" vertex="1">
+          <mxGeometry x="160" y="70" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-5" value="BDG Instance 3" style="rounded=0;whiteSpace=wrap;html=1;" parent="sPULL8hsvBPX46dCANxg-7" vertex="1">
+          <mxGeometry x="300" y="70" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="sPULL8hsvBPX46dCANxg-1" source="sPULL8hsvBPX46dCANxg-8" target="sPULL8hsvBPX46dCANxg-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="sPULL8hsvBPX46dCANxg-1" source="sPULL8hsvBPX46dCANxg-8" target="sPULL8hsvBPX46dCANxg-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="sPULL8hsvBPX46dCANxg-1" source="sPULL8hsvBPX46dCANxg-8" target="sPULL8hsvBPX46dCANxg-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-8" value="BDG Load Balancer Url" style="rounded=0;whiteSpace=wrap;html=1;" parent="sPULL8hsvBPX46dCANxg-1" vertex="1">
+          <mxGeometry x="220" y="240" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="sPULL8hsvBPX46dCANxg-1" source="sPULL8hsvBPX46dCANxg-16" target="sPULL8hsvBPX46dCANxg-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-16" value="Dashboard calling the BDG Health Check API" style="rounded=0;whiteSpace=wrap;html=1;" parent="sPULL8hsvBPX46dCANxg-1" vertex="1">
+          <mxGeometry x="100" y="110" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="sPULL8hsvBPX46dCANxg-1" source="sPULL8hsvBPX46dCANxg-3" target="sPULL8hsvBPX46dCANxg-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="450" />
+              <mxPoint x="155" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="sPULL8hsvBPX46dCANxg-1" source="sPULL8hsvBPX46dCANxg-5" target="sPULL8hsvBPX46dCANxg-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="480" />
+              <mxPoint x="183" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="sPULL8hsvBPX46dCANxg-1" source="sPULL8hsvBPX46dCANxg-4" target="sPULL8hsvBPX46dCANxg-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="460" />
+              <mxPoint x="128" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-22" value="FALSE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="sPULL8hsvBPX46dCANxg-1" vertex="1">
+          <mxGeometry x="180" y="210" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-23" value="TRUE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="sPULL8hsvBPX46dCANxg-1" vertex="1">
+          <mxGeometry x="130" y="240" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-25" value="TRUE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="sPULL8hsvBPX46dCANxg-1" vertex="1">
+          <mxGeometry x="80" y="220" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-34" value="Service fabric Cluster" style="swimlane;startSize=23;" parent="sPULL8hsvBPX46dCANxg-1" vertex="1">
+          <mxGeometry x="230" y="770" width="440" height="180" as="geometry">
+            <mxRectangle x="300" y="300" width="90" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-35" value="BDG Instance 1" style="rounded=0;whiteSpace=wrap;html=1;" parent="sPULL8hsvBPX46dCANxg-34" vertex="1">
+          <mxGeometry x="20" y="70" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-36" value="BDG Instance 2" style="rounded=0;whiteSpace=wrap;html=1;" parent="sPULL8hsvBPX46dCANxg-34" vertex="1">
+          <mxGeometry x="160" y="70" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-37" value="BDG Instance 3" style="rounded=0;whiteSpace=wrap;html=1;" parent="sPULL8hsvBPX46dCANxg-34" vertex="1">
+          <mxGeometry x="300" y="70" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="sPULL8hsvBPX46dCANxg-1" source="sPULL8hsvBPX46dCANxg-41" target="sPULL8hsvBPX46dCANxg-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="sPULL8hsvBPX46dCANxg-1" source="sPULL8hsvBPX46dCANxg-41" target="sPULL8hsvBPX46dCANxg-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="sPULL8hsvBPX46dCANxg-1" source="sPULL8hsvBPX46dCANxg-41" target="sPULL8hsvBPX46dCANxg-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-41" value="BDG Load Balancer Url" style="rounded=0;whiteSpace=wrap;html=1;" parent="sPULL8hsvBPX46dCANxg-1" vertex="1">
+          <mxGeometry x="230" y="700" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="sPULL8hsvBPX46dCANxg-1" source="sPULL8hsvBPX46dCANxg-43" target="sPULL8hsvBPX46dCANxg-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-43" value="Dashboard calling the BDG Health Check API" style="rounded=0;whiteSpace=wrap;html=1;" parent="sPULL8hsvBPX46dCANxg-1" vertex="1">
+          <mxGeometry x="110" y="570" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-49" value="TRUE/FALSE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="sPULL8hsvBPX46dCANxg-1" vertex="1">
+          <mxGeometry x="70" y="680" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="sPULL8hsvBPX46dCANxg-1" source="sPULL8hsvBPX46dCANxg-50" target="sPULL8hsvBPX46dCANxg-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-50" value="BDG instance updates its MQTT connection status in Redis." style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="sPULL8hsvBPX46dCANxg-1" vertex="1">
+          <mxGeometry x="365" y="960" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="sPULL8hsvBPX46dCANxg-1" source="sPULL8hsvBPX46dCANxg-36" target="sPULL8hsvBPX46dCANxg-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="sPULL8hsvBPX46dCANxg-1" source="sPULL8hsvBPX46dCANxg-35" target="sPULL8hsvBPX46dCANxg-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="sPULL8hsvBPX46dCANxg-1" source="sPULL8hsvBPX46dCANxg-37" target="sPULL8hsvBPX46dCANxg-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-60" value="If alteast 1 BDG instance is connected to MQTT, &lt;br&gt;it should be able to server the incoming messages from Bed &lt;br&gt;and the Health Check api repsonse will be TRUE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="sPULL8hsvBPX46dCANxg-1" vertex="1">
+          <mxGeometry x="20" y="960" width="330" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="sPULL8hsvBPX46dCANxg-1" source="sPULL8hsvBPX46dCANxg-61" target="sPULL8hsvBPX46dCANxg-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-61" value="Azure Function to Restart the faulty BDG node and update the Redis with its status" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="sPULL8hsvBPX46dCANxg-1" vertex="1">
+          <mxGeometry x="660" y="990" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="sPULL8hsvBPX46dCANxg-1" source="sPULL8hsvBPX46dCANxg-37" target="sPULL8hsvBPX46dCANxg-61" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sPULL8hsvBPX46dCANxg-64" value="Faulty BDG instance not&amp;nbsp;&lt;br&gt;able to connect to MQTT Broker. &lt;br&gt;So it calls Azure Function to restart Faulty node" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="sPULL8hsvBPX46dCANxg-1" vertex="1">
+          <mxGeometry x="660" y="880" width="270" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
