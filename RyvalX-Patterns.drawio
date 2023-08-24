@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T23:00:40.142Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="VrwDOYXVNewZzIuOvWQ0" version="21.6.9" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-08-24T23:05:09.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="THu57lzmPJG5zzt9gPfW" version="21.6.9" type="github" pages="11">
   <diagram id="0XGUWs_jtmoeqHulZko2" name="Page-1">
     <mxGraphModel dx="880" dy="1578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1731,13 +1731,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EyJC1oIXeOksWD02iL7--7" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Metrics.svg;fillColor=#99FFFF;" parent="EyJC1oIXeOksWD02iL7--19" vertex="1">
-          <mxGeometry x="284.25" y="437.5" width="27.69" height="30" as="geometry" />
+          <mxGeometry x="190" y="460" width="27.69" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EyJC1oIXeOksWD02iL7--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="EyJC1oIXeOksWD02iL7--19" source="EyJC1oIXeOksWD02iL7--2" target="EyJC1oIXeOksWD02iL7--7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EyJC1oIXeOksWD02iL7--8" value="Cloudwatch &lt;br&gt;metrics/insights" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="EyJC1oIXeOksWD02iL7--19" vertex="1">
-          <mxGeometry x="241.45" y="482.5" width="113.28" height="30" as="geometry" />
+          <mxGeometry x="150" y="490" width="113.28" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fRZ3GGh38dS6vP5gs-TG-1" value="laravel api&lt;br&gt;docker image&amp;nbsp;&lt;br&gt;in ECR" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ecr;" vertex="1" parent="EyJC1oIXeOksWD02iL7--19">
           <mxGeometry x="410" y="50.5" width="52.5" height="52.5" as="geometry" />
