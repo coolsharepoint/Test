@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T23:09:02.567Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="cOFx7i5BNi_XhTXcIxh3" version="21.6.9" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-08-24T23:13:18.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="KjzKaghkMQ3g-Az-euc0" version="21.6.9" type="github" pages="11">
   <diagram id="0XGUWs_jtmoeqHulZko2" name="Page-1">
     <mxGraphModel dx="880" dy="1578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1724,11 +1724,16 @@
         <mxCell id="EyJC1oIXeOksWD02iL7--18" value="MySQL" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#2E27AD;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_instance;" parent="EyJC1oIXeOksWD02iL7--19" vertex="1">
           <mxGeometry x="428.75" y="322.5" width="47.5" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="EyJC1oIXeOksWD02iL7--2" value="app logs stored &lt;br&gt;in Cloudwatch&amp;nbsp;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F34482;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cloudwatch;labelBackgroundColor=#ffffff;direction=west;" parent="EyJC1oIXeOksWD02iL7--19" vertex="1">
-          <mxGeometry x="88.25" y="392.5" width="45" height="45" as="geometry" />
+        <mxCell id="EyJC1oIXeOksWD02iL7--2" value="Cloudwatch&amp;nbsp;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F34482;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cloudwatch;labelBackgroundColor=#ffffff;direction=west;" parent="EyJC1oIXeOksWD02iL7--19" vertex="1">
+          <mxGeometry x="350" y="400" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="EyJC1oIXeOksWD02iL7--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="EyJC1oIXeOksWD02iL7--19" source="EyJC1oIXeOksWD02iL7--4" target="EyJC1oIXeOksWD02iL7--2" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zdg4dRhFPQpC0YncBnl2-1" value="app logs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EyJC1oIXeOksWD02iL7--3">
+          <mxGeometry x="-0.2706" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="EyJC1oIXeOksWD02iL7--7" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Metrics.svg;fillColor=#99FFFF;" parent="EyJC1oIXeOksWD02iL7--19" vertex="1">
           <mxGeometry x="190" y="460" width="27.69" height="30" as="geometry" />
@@ -1748,8 +1753,11 @@
         <mxCell id="kkA2G5xx4AtywSg5kB1C-1" value="Store all secrets&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;in the secrets manager" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="EyJC1oIXeOksWD02iL7--19">
           <mxGeometry x="180" y="63" width="150" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Zdg4dRhFPQpC0YncBnl2-25" value="ios/android app build" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EyJC1oIXeOksWD02iL7--19">
+          <mxGeometry x="20" y="370" width="91" height="44.5" as="geometry" />
+        </mxCell>
         <mxCell id="EyJC1oIXeOksWD02iL7--25" value="Upload APK/IOS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="180" y="834" width="60" height="30" as="geometry" />
+          <mxGeometry x="250" y="834" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EyJC1oIXeOksWD02iL7--26" value="AWS" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;strokeColor=#c51616;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="72" y="392" width="40" height="60" as="geometry">
@@ -1767,6 +1775,9 @@
         </mxCell>
         <mxCell id="5S_9o3YlnUKvomV6d1MT-2" value="firebase sdk for chatting" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="72" y="696" width="76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zdg4dRhFPQpC0YncBnl2-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="Zdg4dRhFPQpC0YncBnl2-25" target="EyJC1oIXeOksWD02iL7--15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
