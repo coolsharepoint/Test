@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T02:17:59.591Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="XCVJ1EER7z-ZOOmFziLq" version="21.6.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-08-25T02:23:45.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ao_leL2q70cQJ_mHFGoY" version="21.6.9" type="github" pages="5">
   <diagram id="dU7G5VRazR1_qJ3kLM7e" name="PickWinner-existing Arch">
     <mxGraphModel dx="1290" dy="1711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -290,7 +290,7 @@
           <mxGeometry x="260.75" y="520" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8ZJMGAmXW-BPugktO2MZ-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Scheduler.svg;" vertex="1" parent="EyJC1oIXeOksWD02iL7--19">
-          <mxGeometry x="265" y="600" width="20" height="20" as="geometry" />
+          <mxGeometry x="260.75" y="590" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EyJC1oIXeOksWD02iL7--25" value="Upload APK/IOS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="940" width="60" height="30" as="geometry" />
