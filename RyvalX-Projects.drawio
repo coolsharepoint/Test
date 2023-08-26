@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-26T16:01:48.534Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="IjbitvEybXrargAeT006" version="21.6.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-08-26T19:02:26.909Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="lPzUfC0lcdQzL9DEKwUF" version="21.6.9" type="github" pages="5">
   <diagram id="dU7G5VRazR1_qJ3kLM7e" name="PickWinner-existing Arch">
     <mxGraphModel dx="1290" dy="1745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -366,7 +366,7 @@
         <mxCell id="frFnNhbUDZUVzV3gJCWh-12" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F34482;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cloudformation;" vertex="1" parent="frFnNhbUDZUVzV3gJCWh-5">
           <mxGeometry x="419.34" y="287.5" width="35" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="em47pNHIpDPueSGloPy1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;" edge="1" parent="frFnNhbUDZUVzV3gJCWh-5" source="frFnNhbUDZUVzV3gJCWh-15" target="frFnNhbUDZUVzV3gJCWh-7">
+        <mxCell id="em47pNHIpDPueSGloPy1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="frFnNhbUDZUVzV3gJCWh-5" source="frFnNhbUDZUVzV3gJCWh-15" target="frFnNhbUDZUVzV3gJCWh-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="frFnNhbUDZUVzV3gJCWh-15" value="ios Build Server - mac OS" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_ec2_instance_contents;strokeColor=#D86613;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#D86613;dashed=0;" vertex="1" parent="frFnNhbUDZUVzV3gJCWh-5">
@@ -448,7 +448,7 @@
         <mxCell id="em47pNHIpDPueSGloPy1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="frFnNhbUDZUVzV3gJCWh-1" source="frFnNhbUDZUVzV3gJCWh-41" target="em47pNHIpDPueSGloPy1-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="em47pNHIpDPueSGloPy1-8" value="api/andorid code" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="em47pNHIpDPueSGloPy1-6">
+        <mxCell id="em47pNHIpDPueSGloPy1-8" value="api/android code" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="em47pNHIpDPueSGloPy1-6">
           <mxGeometry x="-0.1363" y="7" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
