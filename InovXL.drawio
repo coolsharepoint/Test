@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-17T03:12:28.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="PQUKw-WnmmhVQw6l6iCi" version="21.7.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-17T23:55:33.313Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="lP48DOdO78V0-4pOfXyg" version="21.7.5" type="github" pages="2">
   <diagram name="Page-1" id="_LjEHA94TsGHqJNP97OD">
     <mxGraphModel dx="2140" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,19 +46,19 @@
           <mxGeometry x="480" y="682.5" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="uH1P3F4neg1JA3xKEen9-10" value="1. User enters&amp;nbsp;&lt;br&gt;username/pwd or sign in with SSO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-68.16" y="110" width="130" height="20" as="geometry" />
+          <mxGeometry x="-51.75" y="110" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uH1P3F4neg1JA3xKEen9-11" value="2. Reditected to IDP for AuthN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220.41" y="110" width="94" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="uH1P3F4neg1JA3xKEen9-69" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.012;entryY=0.567;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uH1P3F4neg1JA3xKEen9-15" target="uH1P3F4neg1JA3xKEen9-60">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="uH1P3F4neg1JA3xKEen9-80" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uH1P3F4neg1JA3xKEen9-15" target="uH1P3F4neg1JA3xKEen9-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="uH1P3F4neg1JA3xKEen9-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uH1P3F4neg1JA3xKEen9-15" target="uH1P3F4neg1JA3xKEen9-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uH1P3F4neg1JA3xKEen9-15" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.client;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="115" width="71.84" height="70" as="geometry" />
+          <mxGeometry x="-130" y="110" width="71.84" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uH1P3F4neg1JA3xKEen9-19" value="Cognito&lt;br&gt;Authorizer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1D5E7;" vertex="1" parent="1">
           <mxGeometry x="-80" y="398.48" width="64.17" height="82.25" as="geometry" />
