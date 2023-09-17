@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-17T03:01:51.378Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="LNfWwZxAHiSGGLH6anou" version="21.7.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-17T03:12:28.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="PQUKw-WnmmhVQw6l6iCi" version="21.7.5" type="github" pages="2">
   <diagram name="Page-1" id="_LjEHA94TsGHqJNP97OD">
     <mxGraphModel dx="2140" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -36,18 +36,8 @@
         <mxCell id="uH1P3F4neg1JA3xKEen9-4" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F54749;gradientDirection=north;fillColor=#C7131F;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cognito;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="330" y="105" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uH1P3F4neg1JA3xKEen9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uH1P3F4neg1JA3xKEen9-7" target="uH1P3F4neg1JA3xKEen9-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uH1P3F4neg1JA3xKEen9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uH1P3F4neg1JA3xKEen9-7" target="uH1P3F4neg1JA3xKEen9-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="334" y="710" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uH1P3F4neg1JA3xKEen9-7" value="Amazon API&lt;br&gt;Gateway&lt;br&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.api_gateway;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="260" y="478.87" width="42.25" height="42.25" as="geometry" />
+          <mxGeometry x="50" y="493.48" width="42.25" height="42.25" as="geometry" />
         </mxCell>
         <mxCell id="uH1P3F4neg1JA3xKEen9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uH1P3F4neg1JA3xKEen9-9" target="uH1P3F4neg1JA3xKEen9-42">
           <mxGeometry relative="1" as="geometry" />
@@ -70,11 +60,8 @@
         <mxCell id="uH1P3F4neg1JA3xKEen9-15" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.client;" vertex="1" parent="1">
           <mxGeometry x="-140" y="115" width="71.84" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="uH1P3F4neg1JA3xKEen9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uH1P3F4neg1JA3xKEen9-19" target="uH1P3F4neg1JA3xKEen9-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="uH1P3F4neg1JA3xKEen9-19" value="Cognito&lt;br&gt;Authorizer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1D5E7;" vertex="1" parent="1">
-          <mxGeometry x="116.16" y="296.37" width="64.17" height="82.25" as="geometry" />
+          <mxGeometry x="-80" y="398.48" width="64.17" height="82.25" as="geometry" />
         </mxCell>
         <mxCell id="uH1P3F4neg1JA3xKEen9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=open;startFill=0;endArrow=open;endFill=0;strokeWidth=2;strokeColor=#808080;entryX=0;entryY=0.296;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -114,18 +101,8 @@
         <mxCell id="uH1P3F4neg1JA3xKEen9-28" value="api/backendsrc3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="533.75" y="587.25" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uH1P3F4neg1JA3xKEen9-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uH1P3F4neg1JA3xKEen9-30" target="uH1P3F4neg1JA3xKEen9-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="20" y="370" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="452" y="670" />
-              <mxPoint x="85" y="670" />
-              <mxPoint x="85" y="393" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uH1P3F4neg1JA3xKEen9-30" value="Policy evaluated" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/infectious-pandemics/480/13-sheild-128.png;fillColor=#00CCCC;" vertex="1" parent="1">
-          <mxGeometry x="410" y="527.75" width="84.5" height="84.5" as="geometry" />
+          <mxGeometry x="325.5" y="560" width="84.5" height="84.5" as="geometry" />
         </mxCell>
         <mxCell id="uH1P3F4neg1JA3xKEen9-31" value="403/unauthroized if the Policy is Deny" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="675" width="174.25" height="20" as="geometry" />
@@ -200,6 +177,17 @@
         <mxCell id="uH1P3F4neg1JA3xKEen9-70" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uH1P3F4neg1JA3xKEen9-60" target="uH1P3F4neg1JA3xKEen9-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="uH1P3F4neg1JA3xKEen9-85" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uH1P3F4neg1JA3xKEen9-60" target="uH1P3F4neg1JA3xKEen9-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="153.25" y="229.32" as="sourcePoint" />
+            <mxPoint x="305" y="330.00000000000006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uH1P3F4neg1JA3xKEen9-86" value="get user &lt;br&gt;permissions" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uH1P3F4neg1JA3xKEen9-85">
+          <mxGeometry x="0.0012" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uH1P3F4neg1JA3xKEen9-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="78.25" y="90" width="140" height="110" as="geometry" />
         </mxCell>
@@ -220,6 +208,15 @@
         </mxCell>
         <mxCell id="uH1P3F4neg1JA3xKEen9-75" value="Amazon&amp;nbsp;&lt;span style=&quot;color: rgb(35, 47, 62); background-color: rgb(255, 255, 255);&quot;&gt;Cognito&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(35, 47, 62);&quot;&gt;&lt;span style=&quot;color: rgb(35, 47, 62); background-color: rgb(255, 255, 255);&quot;&gt;IDP&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="312.75" y="65" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uH1P3F4neg1JA3xKEen9-81" value="All users plus metadata like name, email, roles, are stored here" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="140" width="110" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="uH1P3F4neg1JA3xKEen9-82" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.elasticache_for_redis;" vertex="1" parent="1">
+          <mxGeometry x="70" y="329" width="60.13" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uH1P3F4neg1JA3xKEen9-84" value="Store App &lt;br&gt;specific roles with permissions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50.06" y="398.48" width="100" height="38.62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
