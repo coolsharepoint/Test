@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T02:05:20.961Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ZlUWNo2tLqEPpWR6zy0B" version="21.7.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-09-20T02:06:00.934Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="dcuyAOQ8TOuJDaYWiIiP" version="21.7.5" type="github" pages="11">
   <diagram id="0XGUWs_jtmoeqHulZko2" name="Page-1">
     <mxGraphModel dx="1290" dy="1642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -379,7 +379,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CTVqKxhxKVQcMtoX7Bss" name="S3_FrontEnd_Serverless_Pattern">
-    <mxGraphModel dx="1290" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -845,7 +845,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Account structure" id="wUJVm-5ZJfGnMqhCirbD">
-    <mxGraphModel dx="1290" dy="542" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="km9KdVgc4UFE4PCnm0q_-0" />
         <mxCell id="km9KdVgc4UFE4PCnm0q_-1" parent="km9KdVgc4UFE4PCnm0q_-0" />
@@ -1066,7 +1066,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Serverless Deployment Process" id="N7LySkpVf0LaAqfUgoRC">
-    <mxGraphModel dx="1290" dy="542" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="7zUhYIdjNnRir5XlXD8w-0" />
         <mxCell id="7zUhYIdjNnRir5XlXD8w-1" parent="7zUhYIdjNnRir5XlXD8w-0" />
