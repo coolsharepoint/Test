@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T21:42:01.013Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ZLywqIaAKjpTaMKinyZb" version="21.7.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-09-21T21:42:43.751Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="z7oBUsmPsQvOtvgEuyIJ" version="21.7.5" type="github" pages="6">
   <diagram name="Account structure" id="wUJVm-5ZJfGnMqhCirbD">
     <mxGraphModel dx="1050" dy="542" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1000,10 +1000,10 @@
             <mxPoint x="377.2554022749623" y="592.3791136565078" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sDN8pEFqx-_sKTue2IkU-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=open;startFill=0;endArrow=open;endFill=0;strokeWidth=2;strokeColor=#808080;" parent="1" edge="1">
+        <mxCell id="sDN8pEFqx-_sKTue2IkU-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=open;startFill=0;endArrow=open;endFill=0;strokeWidth=2;strokeColor=#808080;" parent="1" edge="1" source="qbDRHqhoIctCUhYUxi71-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="268" y="879" as="targetPoint" />
+            <mxPoint x="220" y="880" as="targetPoint" />
             <mxPoint x="160" y="879" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
@@ -1012,6 +1012,9 @@
         </mxCell>
         <mxCell id="qbDRHqhoIctCUhYUxi71-17" value="DNS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="520" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="qbDRHqhoIctCUhYUxi71-18" value="user" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="1">
+          <mxGeometry x="20" y="850" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
