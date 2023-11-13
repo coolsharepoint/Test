@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T01:51:00.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="IRVuDomU9v_EDdOF4ORV" version="22.1.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-11-13T01:58:26.744Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="6r-qaAF-IbnLLg5_ymJ4" version="22.1.0" type="github" pages="10">
   <diagram name="Account structure" id="wUJVm-5ZJfGnMqhCirbD">
     <mxGraphModel dx="1290" dy="542" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1001,16 +1001,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ny9D9W_VJAWO6nD4MCdB-7" value="Android/ios/api" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4DUGhQ8OiNlCcGK6LDks-1">
-          <mxGeometry x="690" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="685" y="638" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ny9D9W_VJAWO6nD4MCdB-10" value="test sports radar api" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="4DUGhQ8OiNlCcGK6LDks-1">
           <mxGeometry x="60" y="560" width="95" height="63" as="geometry" />
         </mxCell>
         <mxCell id="Ny9D9W_VJAWO6nD4MCdB-12" value="test sports radar api" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="4DUGhQ8OiNlCcGK6LDks-1">
-          <mxGeometry x="305" y="610" width="95" height="63" as="geometry" />
+          <mxGeometry x="302.5" y="615" width="105" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ny9D9W_VJAWO6nD4MCdB-14" value="prod sports radar api/data replication from prod" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="4DUGhQ8OiNlCcGK6LDks-1">
-          <mxGeometry x="490" y="623" width="125" height="90" as="geometry" />
+          <mxGeometry x="482.5" y="610" width="125" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Ny9D9W_VJAWO6nD4MCdB-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="4DUGhQ8OiNlCcGK6LDks-1" source="Ny9D9W_VJAWO6nD4MCdB-16" target="4DUGhQ8OiNlCcGK6LDks-30">
           <mxGeometry relative="1" as="geometry" />
