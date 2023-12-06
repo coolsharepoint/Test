@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T15:54:14.253Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="BysYC9ZfS2GFHHi5EHN3" version="22.1.6" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-12-06T16:08:29.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Xt4t0XOG5YnAoJ6-9eve" version="22.1.6" type="github" pages="11">
   <diagram name="Account structure" id="wUJVm-5ZJfGnMqhCirbD">
     <mxGraphModel dx="1290" dy="542" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -555,7 +555,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ITNEducation Arch" id="7sYgD48cbPybozUIxrgi">
-    <mxGraphModel dx="1461" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="JqeW5YOECN3TGo31xXTD-0" />
         <mxCell id="JqeW5YOECN3TGo31xXTD-1" parent="JqeW5YOECN3TGo31xXTD-0" />
