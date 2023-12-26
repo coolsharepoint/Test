@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T03:41:55.450Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="UcHo3CP_Ud0V4LRRQ0N9" version="22.1.11" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-12-26T03:56:58.257Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="i-xm52SFo80ZGiNz-UQO" version="22.1.11" type="github" pages="6">
   <diagram id="7X_K-Tef5Lc3V7H4Zyhb" name="MultiAccountStructure">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -836,7 +836,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VREZsfaO5Jja2KIiW4u7" name="AuthFlow">
-    <mxGraphModel dx="1290" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -913,7 +913,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="0FOcDYjKgZHpjNyn9HFN" name="Page-5">
+  <diagram id="0FOcDYjKgZHpjNyn9HFN" name="OrganizationStructure">
     <mxGraphModel dx="1290" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -978,6 +978,56 @@
               <mxPoint x="450" y="620" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zbKcx1z8q9ByOjPpuVsy" name="Onboarding Flow">
+    <mxGraphModel dx="1290" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="k8Z_BKbXk0H02-ycPHA6-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k8Z_BKbXk0H02-ycPHA6-1" target="k8Z_BKbXk0H02-ycPHA6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k8Z_BKbXk0H02-ycPHA6-1" value="&lt;b&gt;Sign up process:&lt;/b&gt;&lt;br&gt;Customer Name&lt;br&gt;Customer Email&lt;br&gt;Company" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="170" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="k8Z_BKbXk0H02-ycPHA6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k8Z_BKbXk0H02-ycPHA6-2" target="k8Z_BKbXk0H02-ycPHA6-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k8Z_BKbXk0H02-ycPHA6-2" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k8Z_BKbXk0H02-ycPHA6-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k8Z_BKbXk0H02-ycPHA6-4" target="k8Z_BKbXk0H02-ycPHA6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k8Z_BKbXk0H02-ycPHA6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k8Z_BKbXk0H02-ycPHA6-4" target="k8Z_BKbXk0H02-ycPHA6-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k8Z_BKbXk0H02-ycPHA6-4" value="Customer Name&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Company Set Up" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="170" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="k8Z_BKbXk0H02-ycPHA6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k8Z_BKbXk0H02-ycPHA6-6" target="k8Z_BKbXk0H02-ycPHA6-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k8Z_BKbXk0H02-ycPHA6-6" value="User Set Up" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k8Z_BKbXk0H02-ycPHA6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k8Z_BKbXk0H02-ycPHA6-8" target="k8Z_BKbXk0H02-ycPHA6-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k8Z_BKbXk0H02-ycPHA6-8" value="Module Set Up&lt;br&gt;(Sales, CRM, Accounting)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k8Z_BKbXk0H02-ycPHA6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="k8Z_BKbXk0H02-ycPHA6-10" target="k8Z_BKbXk0H02-ycPHA6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k8Z_BKbXk0H02-ycPHA6-10" value="Set up Subscription" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k8Z_BKbXk0H02-ycPHA6-13" value="Spin up Customer Environment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
