@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T06:00:04.079Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="kr1tngMz94kvVSuKUvj5" version="22.1.15" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-01-02T19:04:05.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="yiiiPpiRlor6BZNS3MWR" version="22.1.15" type="github" pages="8">
   <diagram name="Account structure" id="wUJVm-5ZJfGnMqhCirbD">
     <mxGraphModel dx="1290" dy="530" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1185,7 +1185,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HBTIxVfMkTA2lrLuJLR0" name="Page-8">
-    <mxGraphModel dx="1290" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="1630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1211,6 +1211,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="62zrTeaJPWNLepbPNiG0-2" target="PqzBVmyg6YNlqdCz46pc-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="62zrTeaJPWNLepbPNiG0-2" value="Create their account&lt;br&gt;Enter Email/password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="415" y="110" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1231,11 +1234,11 @@
         <mxCell id="C3M_IRH6qFI7yIqX2iC_-6" value="Displays all games joined by the user" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C3M_IRH6qFI7yIqX2iC_-9" value="Campaigning Process" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="10" y="260" width="210" height="30" as="geometry" />
+        <mxCell id="C3M_IRH6qFI7yIqX2iC_-9" value="Email Campaigning Process on User Registration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="780" y="-70" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C3M_IRH6qFI7yIqX2iC_-10" value="User Registration Process" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="370" y="30" width="210" height="30" as="geometry" />
+          <mxGeometry x="380" y="70" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C3M_IRH6qFI7yIqX2iC_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3M_IRH6qFI7yIqX2iC_-11" target="62zrTeaJPWNLepbPNiG0-1">
           <mxGeometry relative="1" as="geometry" />
@@ -1405,6 +1408,30 @@
         </mxCell>
         <mxCell id="PqzBVmyg6YNlqdCz46pc-4" value="Purchase coins" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-30" width="540" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-9" value="Day 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-10" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-10" value="Day 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="-10" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-12" value="Day 3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="-10" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-13" value="Day 4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="-10" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-14" value="Day 5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="60" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-15" value="Day 6" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="60" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-16" value="Day 7" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="60" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
