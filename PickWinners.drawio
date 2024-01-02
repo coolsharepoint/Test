@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T05:43:12.245Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="PW1TIPPi4LaRVALq3QcT" version="22.1.15" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-01-02T05:45:45.104Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="vdFxjP5UVwPsgIgj44_t" version="22.1.15" type="github" pages="8">
   <diagram name="Account structure" id="wUJVm-5ZJfGnMqhCirbD">
     <mxGraphModel dx="1290" dy="530" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1354,8 +1354,8 @@
         <mxCell id="s1lREcYMVisePpJ_RNux-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-26" target="s1lREcYMVisePpJ_RNux-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-26" value="1 versus 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="640" width="120" height="60" as="geometry" />
+        <mxCell id="s1lREcYMVisePpJ_RNux-26" value="1 player versus 1 player" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="640" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s1lREcYMVisePpJ_RNux-30" value="subscribed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1050" y="610" as="geometry" />
@@ -1369,10 +1369,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s1lREcYMVisePpJ_RNux-32" value="Play period : 1 day to 7 day&lt;br&gt;Pick Limit : 1 to 7 Picks/day" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="780" width="480" height="60" as="geometry" />
+          <mxGeometry x="795" y="780" width="480" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s1lREcYMVisePpJ_RNux-36" value="Game created" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="975" y="910" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
