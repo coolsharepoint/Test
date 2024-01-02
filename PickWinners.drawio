@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T19:04:05.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="yiiiPpiRlor6BZNS3MWR" version="22.1.15" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-01-02T19:05:03.920Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="TNySCYFeFjQY5Ivp3pt6" version="22.1.15" type="github" pages="8">
   <diagram name="Account structure" id="wUJVm-5ZJfGnMqhCirbD">
     <mxGraphModel dx="1290" dy="530" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1425,13 +1425,13 @@
           <mxGeometry x="1030" y="-10" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PqzBVmyg6YNlqdCz46pc-14" value="Day 5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="60" width="110" height="50" as="geometry" />
+          <mxGeometry x="700" y="60" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PqzBVmyg6YNlqdCz46pc-15" value="Day 6" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="60" width="110" height="50" as="geometry" />
+          <mxGeometry x="840" y="60" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PqzBVmyg6YNlqdCz46pc-16" value="Day 7" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="60" width="110" height="50" as="geometry" />
+          <mxGeometry x="980" y="60" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
