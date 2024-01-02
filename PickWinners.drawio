@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T05:25:51.916Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="PMmHsdNa7_nL5mCkHPhl" version="22.1.15" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-01-02T05:43:12.245Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="PW1TIPPi4LaRVALq3QcT" version="22.1.15" type="github" pages="8">
   <diagram name="Account structure" id="wUJVm-5ZJfGnMqhCirbD">
     <mxGraphModel dx="1290" dy="530" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1214,7 +1214,7 @@
         <mxCell id="62zrTeaJPWNLepbPNiG0-2" value="Create their account&lt;br&gt;Enter Email/password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C3M_IRH6qFI7yIqX2iC_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="C3M_IRH6qFI7yIqX2iC_-1" target="C3M_IRH6qFI7yIqX2iC_-6">
+        <mxCell id="C3M_IRH6qFI7yIqX2iC_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="C3M_IRH6qFI7yIqX2iC_-1" target="C3M_IRH6qFI7yIqX2iC_-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C3M_IRH6qFI7yIqX2iC_-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C3M_IRH6qFI7yIqX2iC_-1" target="C3M_IRH6qFI7yIqX2iC_-16">
@@ -1224,7 +1224,7 @@
           <mxGeometry x="430" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3M_IRH6qFI7yIqX2iC_-6" value="Displays all games joined by the user" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3M_IRH6qFI7yIqX2iC_-9" value="Campaigning Process" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="10" y="260" width="210" height="30" as="geometry" />
@@ -1301,6 +1301,20 @@
         <mxCell id="s1lREcYMVisePpJ_RNux-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-5" target="C3M_IRH6qFI7yIqX2iC_-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-5" target="s1lREcYMVisePpJ_RNux-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-24" value="subscribed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s1lREcYMVisePpJ_RNux-23">
+          <mxGeometry x="-0.2133" y="-2" relative="1" as="geometry">
+            <mxPoint x="-94" y="42" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-5" target="s1lREcYMVisePpJ_RNux-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-5" target="s1lREcYMVisePpJ_RNux-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="s1lREcYMVisePpJ_RNux-5" value="Create Private League" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="915" y="440" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1314,16 +1328,51 @@
           <mxGeometry x="1140" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s1lREcYMVisePpJ_RNux-17" value="Subscription&amp;nbsp;Process" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="750" y="510" width="210" height="30" as="geometry" />
+          <mxGeometry x="600" y="520" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s1lREcYMVisePpJ_RNux-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-18" target="s1lREcYMVisePpJ_RNux-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s1lREcYMVisePpJ_RNux-18" value="$9.99 charged for every month&lt;br&gt;(auto renewal)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="645" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s1lREcYMVisePpJ_RNux-20" value="7 tickets. No expiration" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="645" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-22" target="s1lREcYMVisePpJ_RNux-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-22" value="Tournament&lt;br&gt;(unlimited users can join. A user plays against everyone in the game)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="640" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-25" target="s1lREcYMVisePpJ_RNux-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-25" value="Teams - Always 2 teams&lt;br&gt;(2 players versus 2 to&lt;br&gt;7 versus 7 players" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="640" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-26" target="s1lREcYMVisePpJ_RNux-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-26" value="1 versus 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-30" value="subscribed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1050" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-31" value="subscribed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="960" y="630" as="geometry">
+            <mxPoint x="256" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-32" target="s1lREcYMVisePpJ_RNux-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-32" value="Play period : 1 day to 7 day&lt;br&gt;Pick Limit : 1 to 7 Picks/day" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="780" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-36" value="Game created" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="910" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
