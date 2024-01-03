@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T03:10:33.048Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Y_XIuoTuNNi3Ktc7e6Xw" version="22.1.15" type="github" pages="8">
-  <diagram id="HBTIxVfMkTA2lrLuJLR0" name="Page-8">
+<mxfile host="app.diagrams.net" modified="2024-01-03T03:37:45.511Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="YzLlBdX-mTuITJtt3TYS" version="22.1.15" type="github" pages="8">
+  <diagram id="HBTIxVfMkTA2lrLuJLR0" name="Flow">
     <mxGraphModel dx="1290" dy="1664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -194,6 +194,12 @@
         <mxCell id="s1lREcYMVisePpJ_RNux-32" value="Play period : 1 day to 7 day&lt;br&gt;Pick Limit : 1 to 7 Picks/day" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="780" width="400" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-36" target="PqzBVmyg6YNlqdCz46pc-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1115" y="1090" as="sourcePoint" />
+            <mxPoint x="835" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="s1lREcYMVisePpJ_RNux-36" value="Game created and the user will get private league id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="980" width="120" height="60" as="geometry" />
         </mxCell>
@@ -277,6 +283,72 @@
         </mxCell>
         <mxCell id="PqzBVmyg6YNlqdCz46pc-22" value="1428 coins for $49.99" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="635" y="914" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PqzBVmyg6YNlqdCz46pc-27" target="PqzBVmyg6YNlqdCz46pc-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-27" value="Game :&lt;br&gt;1 versus 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PqzBVmyg6YNlqdCz46pc-29" target="PqzBVmyg6YNlqdCz46pc-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-29" value="Starts as soon as &lt;br&gt;2 users joins" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1260" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PqzBVmyg6YNlqdCz46pc-31" target="PqzBVmyg6YNlqdCz46pc-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PqzBVmyg6YNlqdCz46pc-31" target="PqzBVmyg6YNlqdCz46pc-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-31" value="User will start making their picks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-33" value="No of picks and days &lt;br&gt;will be defined at the&lt;br&gt;game creation" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1360" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PqzBVmyg6YNlqdCz46pc-36" target="PqzBVmyg6YNlqdCz46pc-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="1545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-50" value="sends info about&amp;nbsp;&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;matches like&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); background-color: rgb(251, 251, 251);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;odds(favorite, underdog)&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PqzBVmyg6YNlqdCz46pc-45">
+          <mxGeometry x="-0.1273" y="-3" relative="1" as="geometry">
+            <mxPoint x="-9" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-36" value="User can pick from any sport in the &lt;br&gt;Odds page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1515" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-38" value="Games - Users joins&lt;br&gt;Matches - Matches are a Sport that the users will pick" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1100" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-39" value="Spreads" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="1840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-40" value="Total" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="1840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-41" value="MoneyLine" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="1840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-42" value="Player Props" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="805" y="1840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-46" value="Sports Radar&lt;br&gt;API" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1415" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-49" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Favorite vs Underdog&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;Lakers - favorites because they are a better team&lt;/div&gt;&lt;div&gt;Chicago Bulls - Underdog&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="1680" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PqzBVmyg6YNlqdCz46pc-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="1560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-51" value="convert odds into points" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
