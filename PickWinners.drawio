@@ -1,4 +1,286 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T03:02:41.230Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="HM-K-HE3oIzptkDDCNWt" version="22.1.15" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-01-03T03:10:33.048Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Y_XIuoTuNNi3Ktc7e6Xw" version="22.1.15" type="github" pages="8">
+  <diagram id="HBTIxVfMkTA2lrLuJLR0" name="Page-8">
+    <mxGraphModel dx="1290" dy="1664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="62zrTeaJPWNLepbPNiG0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="62zrTeaJPWNLepbPNiG0-1" target="62zrTeaJPWNLepbPNiG0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3M_IRH6qFI7yIqX2iC_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="62zrTeaJPWNLepbPNiG0-1" target="C3M_IRH6qFI7yIqX2iC_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3M_IRH6qFI7yIqX2iC_-5" value="sign in" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C3M_IRH6qFI7yIqX2iC_-4">
+          <mxGeometry x="0.0356" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62zrTeaJPWNLepbPNiG0-1" value="Sports Pick &lt;br&gt;Competitor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3M_IRH6qFI7yIqX2iC_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="62zrTeaJPWNLepbPNiG0-2" target="C3M_IRH6qFI7yIqX2iC_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3M_IRH6qFI7yIqX2iC_-3" value="signin" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C3M_IRH6qFI7yIqX2iC_-2">
+          <mxGeometry x="-0.0057" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="62zrTeaJPWNLepbPNiG0-2" target="PqzBVmyg6YNlqdCz46pc-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62zrTeaJPWNLepbPNiG0-2" value="Create their account&lt;br&gt;Enter Email/password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3M_IRH6qFI7yIqX2iC_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="C3M_IRH6qFI7yIqX2iC_-1" target="C3M_IRH6qFI7yIqX2iC_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3M_IRH6qFI7yIqX2iC_-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C3M_IRH6qFI7yIqX2iC_-1" target="C3M_IRH6qFI7yIqX2iC_-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-3" value="search by&amp;nbsp;&lt;br&gt;league id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C3M_IRH6qFI7yIqX2iC_-17">
+          <mxGeometry x="-0.0857" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3M_IRH6qFI7yIqX2iC_-1" value="Home screen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3M_IRH6qFI7yIqX2iC_-6" value="Displays all games joined by the user" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3M_IRH6qFI7yIqX2iC_-9" value="Email Campaigning Process on User Registration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="780" y="-70" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C3M_IRH6qFI7yIqX2iC_-10" value="User Registration Process" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="380" y="70" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C3M_IRH6qFI7yIqX2iC_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3M_IRH6qFI7yIqX2iC_-11" target="62zrTeaJPWNLepbPNiG0-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3M_IRH6qFI7yIqX2iC_-13" value="sends the download link &lt;br&gt;or they can go to the app directly" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C3M_IRH6qFI7yIqX2iC_-12">
+          <mxGeometry x="-0.2284" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3M_IRH6qFI7yIqX2iC_-11" value="Ramon" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="10" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3M_IRH6qFI7yIqX2iC_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C3M_IRH6qFI7yIqX2iC_-15" target="C3M_IRH6qFI7yIqX2iC_-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3M_IRH6qFI7yIqX2iC_-15" value="register as a subscriber to&lt;br&gt;create &amp;amp; play private league" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
+          <mxGeometry x="645" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3M_IRH6qFI7yIqX2iC_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C3M_IRH6qFI7yIqX2iC_-16" target="C3M_IRH6qFI7yIqX2iC_-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3M_IRH6qFI7yIqX2iC_-19" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C3M_IRH6qFI7yIqX2iC_-18">
+          <mxGeometry x="-0.2089" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3M_IRH6qFI7yIqX2iC_-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C3M_IRH6qFI7yIqX2iC_-16" target="s1lREcYMVisePpJ_RNux-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3M_IRH6qFI7yIqX2iC_-24" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C3M_IRH6qFI7yIqX2iC_-23">
+          <mxGeometry x="-0.0889" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3M_IRH6qFI7yIqX2iC_-16" value="join other user league &lt;br&gt;through invitation&lt;br&gt;(private league &lt;br&gt;id is shared &lt;br&gt;or provided ahead)" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="620" y="235" width="170" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3M_IRH6qFI7yIqX2iC_-20" target="s1lREcYMVisePpJ_RNux-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3M_IRH6qFI7yIqX2iC_-20" value="Subscribe - In App purchase" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
+          <mxGeometry x="645" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-1" target="s1lREcYMVisePpJ_RNux-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-12" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s1lREcYMVisePpJ_RNux-3">
+          <mxGeometry x="-0.165" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-1" target="s1lREcYMVisePpJ_RNux-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-10" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s1lREcYMVisePpJ_RNux-9">
+          <mxGeometry x="-0.1782" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-1" value="Join Private league" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="890" y="235" width="170" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-2" value="Join Public league&lt;br&gt;Open to join any Public league game" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-5" target="C3M_IRH6qFI7yIqX2iC_-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-5" target="s1lREcYMVisePpJ_RNux-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-24" value="subscribed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s1lREcYMVisePpJ_RNux-23">
+          <mxGeometry x="-0.2133" y="-2" relative="1" as="geometry">
+            <mxPoint x="-94" y="42" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-5" target="s1lREcYMVisePpJ_RNux-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-5" target="s1lREcYMVisePpJ_RNux-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-5" value="Create Private League" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="915" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-14" value="Private/Public league &lt;br&gt;Creation &amp;amp; Joining Process" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="790" y="180" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-15" target="s1lREcYMVisePpJ_RNux-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-15" value="App creates the Public league games" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-17" value="Subscription&amp;nbsp;Process" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="600" y="520" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-18" target="s1lREcYMVisePpJ_RNux-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-18" value="$9.99 charged for every month&lt;br&gt;(auto renewal)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#F8CECC;" vertex="1" parent="1">
+          <mxGeometry x="460" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-20" value="7 tickets. No expiration" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#F8CECC;" vertex="1" parent="1">
+          <mxGeometry x="300" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-22" target="s1lREcYMVisePpJ_RNux-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-22" value="Tournament&lt;br&gt;(unlimited users can join. A user plays against everyone in the game)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="640" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-25" target="s1lREcYMVisePpJ_RNux-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-25" value="Teams - Always 2 teams&lt;br&gt;(2 players versus 2 to&lt;br&gt;7 versus 7 players" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="640" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-26" target="s1lREcYMVisePpJ_RNux-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-26" value="1 player versus 1 player" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="640" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-30" value="subscribed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1040" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-31" value="subscribed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="960" y="630" as="geometry">
+            <mxPoint x="256" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-32" target="PqzBVmyg6YNlqdCz46pc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-32" value="Play period : 1 day to 7 day&lt;br&gt;Pick Limit : 1 to 7 Picks/day" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="780" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-36" value="Game created and the user will get private league id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-38" value="subscribe" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="770" y="440" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s1lREcYMVisePpJ_RNux-41" value="subscribed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="825" y="470" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="1010" as="sourcePoint" />
+            <mxPoint x="298.8" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="229" y="1010" />
+              <mxPoint x="229" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-2" value="share private league id for potential Sports Pick Competitior" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PqzBVmyg6YNlqdCz46pc-1">
+          <mxGeometry x="-0.4432" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PqzBVmyg6YNlqdCz46pc-4" target="s1lREcYMVisePpJ_RNux-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PqzBVmyg6YNlqdCz46pc-4" target="PqzBVmyg6YNlqdCz46pc-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-4" value="Purchase coins&lt;br&gt;5 coins/game" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-30" width="540" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-9" value="Day 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-10" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-10" value="Day 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="-10" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-12" value="Day 3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="-10" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-13" value="Day 4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="-10" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-14" value="Day 5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="60" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-15" value="Day 6" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="60" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-16" value="Day 7" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="60" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PqzBVmyg6YNlqdCz46pc-17" target="PqzBVmyg6YNlqdCz46pc-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PqzBVmyg6YNlqdCz46pc-17" target="PqzBVmyg6YNlqdCz46pc-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PqzBVmyg6YNlqdCz46pc-17" target="PqzBVmyg6YNlqdCz46pc-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PqzBVmyg6YNlqdCz46pc-17" target="PqzBVmyg6YNlqdCz46pc-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-17" value="In App Purchase coins" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-19" value="222 coins for $9.99" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="820" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-20" value="625 coins for $24.99" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="866" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-21" value="3333 coins for $99.99" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="960" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PqzBVmyg6YNlqdCz46pc-22" value="1428 coins for $49.99" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="914" width="115" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram name="Account structure" id="wUJVm-5ZJfGnMqhCirbD">
     <mxGraphModel dx="1290" dy="530" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1180,258 +1462,6 @@
           <mxGeometry x="0.5247" y="-17" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="HBTIxVfMkTA2lrLuJLR0" name="Page-8">
-    <mxGraphModel dx="1290" dy="1630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="62zrTeaJPWNLepbPNiG0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="62zrTeaJPWNLepbPNiG0-1" target="62zrTeaJPWNLepbPNiG0-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C3M_IRH6qFI7yIqX2iC_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="62zrTeaJPWNLepbPNiG0-1" target="C3M_IRH6qFI7yIqX2iC_-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C3M_IRH6qFI7yIqX2iC_-5" value="sign in" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C3M_IRH6qFI7yIqX2iC_-4">
-          <mxGeometry x="0.0356" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="62zrTeaJPWNLepbPNiG0-1" value="Sports Pick &lt;br&gt;Competitor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="110" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="C3M_IRH6qFI7yIqX2iC_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="62zrTeaJPWNLepbPNiG0-2" target="C3M_IRH6qFI7yIqX2iC_-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C3M_IRH6qFI7yIqX2iC_-3" value="signin" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C3M_IRH6qFI7yIqX2iC_-2">
-          <mxGeometry x="-0.0057" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PqzBVmyg6YNlqdCz46pc-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="62zrTeaJPWNLepbPNiG0-2" target="PqzBVmyg6YNlqdCz46pc-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="62zrTeaJPWNLepbPNiG0-2" value="Create their account&lt;br&gt;Enter Email/password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="110" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="C3M_IRH6qFI7yIqX2iC_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="C3M_IRH6qFI7yIqX2iC_-1" target="C3M_IRH6qFI7yIqX2iC_-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C3M_IRH6qFI7yIqX2iC_-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C3M_IRH6qFI7yIqX2iC_-1" target="C3M_IRH6qFI7yIqX2iC_-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PqzBVmyg6YNlqdCz46pc-3" value="search by&amp;nbsp;&lt;br&gt;league id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C3M_IRH6qFI7yIqX2iC_-17">
-          <mxGeometry x="-0.0857" relative="1" as="geometry">
-            <mxPoint y="-2" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C3M_IRH6qFI7yIqX2iC_-1" value="Home screen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="C3M_IRH6qFI7yIqX2iC_-6" value="Displays all games joined by the user" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="410" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="C3M_IRH6qFI7yIqX2iC_-9" value="Email Campaigning Process on User Registration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="780" y="-70" width="210" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="C3M_IRH6qFI7yIqX2iC_-10" value="User Registration Process" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="380" y="70" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="C3M_IRH6qFI7yIqX2iC_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3M_IRH6qFI7yIqX2iC_-11" target="62zrTeaJPWNLepbPNiG0-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C3M_IRH6qFI7yIqX2iC_-13" value="sends the download link &lt;br&gt;or they can go to the app directly" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C3M_IRH6qFI7yIqX2iC_-12">
-          <mxGeometry x="-0.2284" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C3M_IRH6qFI7yIqX2iC_-11" value="Ramon" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="10" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="C3M_IRH6qFI7yIqX2iC_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C3M_IRH6qFI7yIqX2iC_-15" target="C3M_IRH6qFI7yIqX2iC_-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C3M_IRH6qFI7yIqX2iC_-15" value="register as a subscriber to&lt;br&gt;create &amp;amp; play private league" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
-          <mxGeometry x="645" y="440" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="C3M_IRH6qFI7yIqX2iC_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C3M_IRH6qFI7yIqX2iC_-16" target="C3M_IRH6qFI7yIqX2iC_-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C3M_IRH6qFI7yIqX2iC_-19" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C3M_IRH6qFI7yIqX2iC_-18">
-          <mxGeometry x="-0.2089" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C3M_IRH6qFI7yIqX2iC_-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C3M_IRH6qFI7yIqX2iC_-16" target="s1lREcYMVisePpJ_RNux-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="880" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C3M_IRH6qFI7yIqX2iC_-24" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C3M_IRH6qFI7yIqX2iC_-23">
-          <mxGeometry x="-0.0889" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C3M_IRH6qFI7yIqX2iC_-16" value="join other user league &lt;br&gt;through invitation&lt;br&gt;(private league &lt;br&gt;id is shared &lt;br&gt;or provided ahead)" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
-          <mxGeometry x="620" y="235" width="170" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3M_IRH6qFI7yIqX2iC_-20" target="s1lREcYMVisePpJ_RNux-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C3M_IRH6qFI7yIqX2iC_-20" value="Subscribe - In App purchase" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
-          <mxGeometry x="645" y="560" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-1" target="s1lREcYMVisePpJ_RNux-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-12" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s1lREcYMVisePpJ_RNux-3">
-          <mxGeometry x="-0.165" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-1" target="s1lREcYMVisePpJ_RNux-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-10" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s1lREcYMVisePpJ_RNux-9">
-          <mxGeometry x="-0.1782" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-1" value="Join Private league" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
-          <mxGeometry x="890" y="235" width="170" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-2" value="Join Public league&lt;br&gt;Open to join any Public league game" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-5" target="C3M_IRH6qFI7yIqX2iC_-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-5" target="s1lREcYMVisePpJ_RNux-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-24" value="subscribed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s1lREcYMVisePpJ_RNux-23">
-          <mxGeometry x="-0.2133" y="-2" relative="1" as="geometry">
-            <mxPoint x="-94" y="42" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-5" target="s1lREcYMVisePpJ_RNux-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-5" target="s1lREcYMVisePpJ_RNux-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-5" value="Create Private League" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="915" y="440" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-14" value="Private/Public league &lt;br&gt;Creation &amp;amp; Joining Process" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="790" y="180" width="210" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-15" target="s1lREcYMVisePpJ_RNux-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-15" value="App creates the Public league games" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="175" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-17" value="Subscription&amp;nbsp;Process" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="600" y="520" width="210" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-18" target="s1lREcYMVisePpJ_RNux-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-18" value="$9.99 charged for every month&lt;br&gt;(auto renewal)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#F8CECC;" vertex="1" parent="1">
-          <mxGeometry x="460" y="560" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-20" value="7 tickets. No expiration" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#F8CECC;" vertex="1" parent="1">
-          <mxGeometry x="300" y="560" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-22" target="s1lREcYMVisePpJ_RNux-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-22" value="Tournament&lt;br&gt;(unlimited users can join. A user plays against everyone in the game)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="640" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-25" target="s1lREcYMVisePpJ_RNux-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-25" value="Teams - Always 2 teams&lt;br&gt;(2 players versus 2 to&lt;br&gt;7 versus 7 players" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="640" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-26" target="s1lREcYMVisePpJ_RNux-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-26" value="1 player versus 1 player" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="640" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-30" value="subscribed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1050" y="610" as="geometry" />
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-31" value="subscribed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="960" y="630" as="geometry">
-            <mxPoint x="256" y="-20" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-32" target="PqzBVmyg6YNlqdCz46pc-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-32" value="Play period : 1 day to 7 day&lt;br&gt;Pick Limit : 1 to 7 Picks/day" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="780" width="480" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-36" value="Game created and the user will get private league id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="980" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-38" value="subscribe" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="770" y="440" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="s1lREcYMVisePpJ_RNux-41" value="subscribed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="825" y="470" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PqzBVmyg6YNlqdCz46pc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-36">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="920" y="1010" as="sourcePoint" />
-            <mxPoint x="298.8" y="120" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="229" y="1010" />
-              <mxPoint x="229" y="120" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PqzBVmyg6YNlqdCz46pc-2" value="share private league id for potential Sports Pick Competitior" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PqzBVmyg6YNlqdCz46pc-1">
-          <mxGeometry x="-0.4432" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PqzBVmyg6YNlqdCz46pc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PqzBVmyg6YNlqdCz46pc-4" target="s1lREcYMVisePpJ_RNux-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PqzBVmyg6YNlqdCz46pc-4" value="Purchase coins" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="880" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PqzBVmyg6YNlqdCz46pc-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="-30" width="540" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="PqzBVmyg6YNlqdCz46pc-9" value="Day 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="-10" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="PqzBVmyg6YNlqdCz46pc-10" value="Day 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="-10" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="PqzBVmyg6YNlqdCz46pc-12" value="Day 3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="-10" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="PqzBVmyg6YNlqdCz46pc-13" value="Day 4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="-10" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="PqzBVmyg6YNlqdCz46pc-14" value="Day 5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="60" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="PqzBVmyg6YNlqdCz46pc-15" value="Day 6" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="60" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="PqzBVmyg6YNlqdCz46pc-16" value="Day 7" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="60" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
