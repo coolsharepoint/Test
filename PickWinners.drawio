@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T20:17:54.677Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="JE5ssPTaq95GrRRFnm5O" version="22.1.17" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-01-10T20:24:57.878Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="cUWfUo5H7-ct2VCI49wJ" version="22.1.17" type="github" pages="8">
   <diagram id="HBTIxVfMkTA2lrLuJLR0" name="Flow">
     <mxGraphModel dx="1290" dy="1630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kAUq-aCmiTJiIFSBqX3x-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="1855" width="470" height="570" as="geometry" />
+          <mxGeometry x="1360" y="1855" width="470" height="570" as="geometry" />
         </mxCell>
         <mxCell id="62zrTeaJPWNLepbPNiG0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="62zrTeaJPWNLepbPNiG0-1" target="62zrTeaJPWNLepbPNiG0-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -389,31 +389,43 @@
           <mxGeometry x="20" y="1850" width="295" height="610.94" as="geometry" />
         </mxCell>
         <mxCell id="kAUq-aCmiTJiIFSBqX3x-3" value="-2 (New orleans Pelicans)&lt;br&gt;(data comes from sports radar). &lt;br&gt;Team has to win more than 2 points. &lt;br&gt;They are the favorite.&lt;br&gt;&lt;br&gt;+2 (Golden State Warriors)&lt;br&gt;(data comes from sports radar).&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Team cannot lose by more than 2 points.&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;They are the underdogs&lt;br&gt;&lt;br&gt;If New Orleans Pelicans wins by 2 points, then its a draw&lt;br&gt;If Golden State loses by 2 points, then its a draw" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="927.5" y="1885" width="315" height="200" as="geometry" />
+          <mxGeometry x="1437.5" y="1885" width="315" height="200" as="geometry" />
         </mxCell>
         <mxCell id="kAUq-aCmiTJiIFSBqX3x-4" value="-112 (&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;New orleans Pelicans)&lt;br&gt;&lt;/b&gt;&amp;nbsp;-108 (&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Golden State Warriors&lt;/b&gt;)&lt;br&gt;(data coming from sportsradar, called as ODDS)&lt;br&gt;The API will convert thses ODDS to POINTS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="932.5" y="2105" width="310" height="70" as="geometry" />
+          <mxGeometry x="1442.5" y="2105" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kAUq-aCmiTJiIFSBqX3x-5" value="&lt;b&gt;New orleans Pelicans&lt;/b&gt;&lt;br&gt;+99&amp;nbsp; -102(points, logic found in website)&lt;br&gt;If the team wins, they get +99 points&lt;br&gt;If the team loses, they lose -102 points&lt;br&gt;(these point calculations are based on the ODDS)&lt;br&gt;&lt;br&gt;&lt;b&gt;Golden State Warriors&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+100 -101 (points, logic found in website)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;If the team wins, they get +100 points&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;If the team loses, they lose -101 points" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="927.5" y="2205" width="315" height="200" as="geometry" />
+          <mxGeometry x="1437.5" y="2205" width="315" height="200" as="geometry" />
         </mxCell>
         <mxCell id="kAUq-aCmiTJiIFSBqX3x-7" value="Spreads" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="1850" width="120" height="40" as="geometry" />
+          <mxGeometry x="1530" y="1850" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kAUq-aCmiTJiIFSBqX3x-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1855" width="470" height="570" as="geometry" />
+          <mxGeometry x="850" y="1855" width="470" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="kAUq-aCmiTJiIFSBqX3x-9" value="O 236.5 (Over)&lt;br&gt;This means combining both the teams(Toronto Raptors, LA Clippers) points&lt;br&gt;&lt;br&gt;This pick selection should have the Total &amp;gt; 236.5 points to win the pick. and get +100 points&lt;br&gt;&lt;br&gt;This pick selection should have the Total &amp;gt; 236.5 points to win the pick. If the total points is less than 236.5, then they lose&amp;nbsp; by -101 points." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="417.5" y="1885" width="315" height="200" as="geometry" />
+        <mxCell id="kAUq-aCmiTJiIFSBqX3x-9" value="O 236.5 (Over)&lt;br&gt;This means combining both the teams(Toronto Raptors, LA Clippers) points&lt;br&gt;&lt;br&gt;This pick selection should have the Total &amp;gt; 236.5 points to win the pick. and get +100 points&lt;br&gt;&lt;br&gt;This pick selection should have the Total &amp;gt; 236.5 points to win the pick. If the total points is less than 236.5, then they lose -101 points." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="927.5" y="1885" width="315" height="200" as="geometry" />
         </mxCell>
         <mxCell id="kAUq-aCmiTJiIFSBqX3x-10" value="-115 (Toronto Raptors&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;)&lt;br&gt;&lt;/b&gt;&amp;nbsp;-105 (LA Clippers)&lt;br&gt;(data coming from sportsradar, called as ODDS)&lt;br&gt;The API will convert thses ODDS to POINTS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="422.5" y="2105" width="310" height="70" as="geometry" />
+          <mxGeometry x="932.5" y="2105" width="310" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="kAUq-aCmiTJiIFSBqX3x-11" value="U 236.5 (Under)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;This means combining both the teams(Toronto Raptors, LA Clippers) points&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;This pick selection should have the Total &amp;lt; 236.5 points to win the pick. and get +99 points&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;This pick selection should have the Total &amp;lt; 236.5 points to win the pick. If they have more than 236.5 points, then they they lose by -102 points." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="417.5" y="2205" width="315" height="200" as="geometry" />
+        <mxCell id="kAUq-aCmiTJiIFSBqX3x-11" value="U 236.5 (Under)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;This means combining both the teams(Toronto Raptors, LA Clippers) points&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;This pick selection should have the Total &amp;lt; 236.5 points to win the pick. and get +99 points&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;This pick selection should have the Total &amp;lt; 236.5 points to win the pick. If they have more than 236.5 points, then they they lose -102 points." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="927.5" y="2205" width="315" height="200" as="geometry" />
         </mxCell>
         <mxCell id="kAUq-aCmiTJiIFSBqX3x-12" value="Total" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="530" y="1850" width="80" height="40" as="geometry" />
+          <mxGeometry x="1040" y="1850" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kAUq-aCmiTJiIFSBqX3x-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1855" width="470" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="kAUq-aCmiTJiIFSBqX3x-14" value="Money line means who is going win or lose&lt;br&gt;&lt;br&gt;If the pick is New Orleans Pelicans &lt;b&gt;Money Line&lt;/b&gt;, then the pick wins&amp;nbsp;&lt;b&gt;+98&lt;/b&gt; points&lt;br&gt;If the pick is New Orleans Pelicans&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Money Line&lt;/b&gt;, then the pick loses wins &lt;b&gt;-104&lt;/b&gt;&amp;nbsp;points&lt;br&gt;&lt;br&gt;&lt;br&gt;If the pick is Golden State Warriors Money Line, then the pick wins&amp;nbsp;&lt;b&gt;+102&lt;/b&gt; points&lt;br&gt;If the pick is Golden State Warriors Money Line, then the pick loses&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;+100&lt;/b&gt;&amp;nbsp;points&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="417.5" y="1885" width="315" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="kAUq-aCmiTJiIFSBqX3x-15" value="-135 (New Orleans Pelicans&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;)&lt;br&gt;&lt;/b&gt;&amp;nbsp;-114 (Golden State Warriors)&lt;br&gt;(data coming from sportsradar, called as ODDS)&lt;br&gt;The API will convert thses ODDS to POINTS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="422.5" y="2105" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kAUq-aCmiTJiIFSBqX3x-17" value="Money Line" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1850" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
