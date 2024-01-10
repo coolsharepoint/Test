@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T20:45:30.363Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="gkPhgFinBSLSWhgRVkC-" version="22.1.17" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-01-10T20:47:18.001Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="6jV3ClOEmy-vQrpRQpIc" version="22.1.17" type="github" pages="8">
   <diagram id="HBTIxVfMkTA2lrLuJLR0" name="Flow">
     <mxGraphModel dx="1050" dy="1664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -431,19 +431,19 @@
           <mxGeometry x="20" y="2470" width="434" height="835.28" as="geometry" />
         </mxCell>
         <mxCell id="kAUq-aCmiTJiIFSBqX3x-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="2650" width="450" height="450" as="geometry" />
+          <mxGeometry x="470" y="2610" width="450" height="450" as="geometry" />
         </mxCell>
         <mxCell id="kAUq-aCmiTJiIFSBqX3x-20" value="Over&lt;br&gt;5.5( Brown, Jaylen)&lt;br&gt;&lt;br&gt;If i pick the Over in Rebounds category and the pick wins by &amp;gt; 5.5 Rebounds, then the pick wins &lt;b&gt;+100 points&lt;br&gt;&lt;/b&gt;If i pick the Over in Rebounds category and the pick loses by &amp;lt; 5.5 Rebounds, then the pick loses &lt;b&gt;-&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;101 points&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="2730" width="302.5" height="160" as="geometry" />
+          <mxGeometry x="550" y="2690" width="302.5" height="160" as="geometry" />
         </mxCell>
         <mxCell id="kAUq-aCmiTJiIFSBqX3x-22" value="Under&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;5.5( Brown, Jaylen)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;If i pick the Under in Rebounds category and the pick wins by &amp;lt; 5.5 Rebounds, then the pick wins&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;+99 points&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/b&gt;If i pick the Under in Rebounds category and the pick loses by &amp;gt; 5.5 Rebounds, then the pick loses&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;-&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;103 points&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="563.75" y="2910" width="302.5" height="140" as="geometry" />
+          <mxGeometry x="553.75" y="2870" width="302.5" height="140" as="geometry" />
         </mxCell>
         <mxCell id="kAUq-aCmiTJiIFSBqX3x-24" value="Player Props(players stat categories):&lt;br&gt;Predict the skill of a player by making a pick" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="495" y="2470" width="330" height="140" as="geometry" />
+          <mxGeometry x="470" y="2510" width="330" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kAUq-aCmiTJiIFSBqX3x-25" value="Player Props - Rebounds" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="570" y="2680" width="297.5" height="30" as="geometry" />
+          <mxGeometry x="560" y="2640" width="297.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
