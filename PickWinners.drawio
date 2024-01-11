@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T02:01:50.171Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="rvFx26PrtcRwE7r5MdSk" version="22.1.17" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-01-11T02:02:54.793Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="BX8oiIL-ufcqZ2fMDC44" version="22.1.17" type="github" pages="8">
   <diagram id="HBTIxVfMkTA2lrLuJLR0" name="Flow">
     <mxGraphModel dx="1518" dy="1724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -503,7 +503,7 @@
         <mxCell id="ou_ledQjHqPDxTcqBpmo-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ou_ledQjHqPDxTcqBpmo-24" target="ou_ledQjHqPDxTcqBpmo-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ou_ledQjHqPDxTcqBpmo-24" value="&lt;b&gt;Fade&#39;m - 1 Pick per Game&lt;/b&gt;&lt;br&gt;user that makes a Fade&#39;m pick against the opponent gets the opposite of what the opponent pick&lt;br&gt;&lt;br&gt;(Challenge the mental ability of the user by making this Pick. This action will automatically pick the opposite of whatever the opponent picks)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-24" value="&lt;b&gt;Fade&#39;m - 1 Pick per Game&lt;/b&gt;&lt;br&gt;user that makes a Fade&#39;m pick against the opponent gets the opposite of what the opponent pick&lt;br&gt;&lt;br&gt;(Challenge the mental ability of the user by making this Pick. This action will automatically pick the opposite of whatever the opponent picks)&lt;br&gt;&lt;b&gt;Note - User A can select at what pick number to User B will be forced&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="1290" width="270" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ou_ledQjHqPDxTcqBpmo-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou_ledQjHqPDxTcqBpmo-27" target="ou_ledQjHqPDxTcqBpmo-24">
@@ -524,7 +524,7 @@
         <mxCell id="ou_ledQjHqPDxTcqBpmo-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ou_ledQjHqPDxTcqBpmo-34" target="ou_ledQjHqPDxTcqBpmo-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ou_ledQjHqPDxTcqBpmo-34" value="&lt;b&gt;Force&#39;m&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;- 1 Pick per Game&lt;/b&gt;&lt;br&gt;user that makes a Force&#39;m pick forces the opponent to a specific match to pick from&lt;br&gt;&lt;br&gt;(User will be forced to make a pick from a specific match. User A&amp;nbsp; wanted to have the User B to lose so he forces to make a pick from specific match.)&lt;br&gt;Note - User A can select at what pick number to User B will be forced" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-34" value="&lt;b&gt;Force&#39;m&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;- 1 Pick per Game&lt;/b&gt;&lt;br&gt;user that makes a Force&#39;m pick forces the opponent to a specific match to pick from&lt;br&gt;&lt;br&gt;(User will be forced to make a pick from a specific match. User A&amp;nbsp; wanted to have the User B to lose so he forces to make a pick from specific match.)&lt;br&gt;&lt;b&gt;Note - User A can select at what pick number to User B will be forced&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1135" y="1290" width="270" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ou_ledQjHqPDxTcqBpmo-36" value="&lt;br&gt;User A makes Force&#39;m pick against User B&lt;br&gt;(at this time, the app will ask the User A to pick the match for the User B to pick )&lt;br&gt;&lt;br&gt;Now User B when they click the &lt;b&gt;PickWinner button&lt;/b&gt; will be forced to pick from the match that User A selected" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
