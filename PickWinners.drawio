@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T02:02:54.793Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="BX8oiIL-ufcqZ2fMDC44" version="22.1.17" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-01-11T02:15:52.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_Z3rVnTGxykjDqUokHZc" version="22.1.17" type="github" pages="8">
   <diagram id="HBTIxVfMkTA2lrLuJLR0" name="Flow">
     <mxGraphModel dx="1518" dy="1724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -512,6 +512,9 @@
         <mxCell id="ou_ledQjHqPDxTcqBpmo-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou_ledQjHqPDxTcqBpmo-27" target="ou_ledQjHqPDxTcqBpmo-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou_ledQjHqPDxTcqBpmo-27" target="ou_ledQjHqPDxTcqBpmo-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ou_ledQjHqPDxTcqBpmo-27" value="SPC&lt;br&gt;(Sports Picks Competitor)&lt;br&gt;Special Category, not a sport" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="1140" width="340" height="60" as="geometry" />
         </mxCell>
@@ -529,6 +532,9 @@
         </mxCell>
         <mxCell id="ou_ledQjHqPDxTcqBpmo-36" value="&lt;br&gt;User A makes Force&#39;m pick against User B&lt;br&gt;(at this time, the app will ask the User A to pick the match for the User B to pick )&lt;br&gt;&lt;br&gt;Now User B when they click the &lt;b&gt;PickWinner button&lt;/b&gt; will be forced to pick from the match that User A selected" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1132" y="1507.5" width="276" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-38" value="&lt;b&gt;Tail&#39;m&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;- 1 Pick per Game&lt;/b&gt;&lt;br&gt;user that makes a Tail&#39;m pick will get the same exact pick as the other user&lt;br&gt;&lt;br&gt;(User A makes Tail&#39;m pick with User B, then whatever pick User B makes, then User A will have the same pick.)&lt;br&gt;&lt;b&gt;Note - Users that can be Tailed cannot be playing the same game.&amp;nbsp;&lt;br&gt;The users that can be tailed will be picked from the Ranks - Overall ranks for the users&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1462.5" y="1290" width="270" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
