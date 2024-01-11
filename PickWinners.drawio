@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T00:56:53.101Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ay4VRQw0zduPO8bSO-gY" version="22.1.17" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-01-11T01:35:06.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="wVQauOYuh9FX5oUvVYk0" version="22.1.17" type="github" pages="8">
   <diagram id="HBTIxVfMkTA2lrLuJLR0" name="Flow">
-    <mxGraphModel dx="1843" dy="1857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1518" dy="1724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -499,6 +499,24 @@
         </mxCell>
         <mxCell id="ou_ledQjHqPDxTcqBpmo-20" value="User gets 7 FREE tickets" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="415" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ou_ledQjHqPDxTcqBpmo-24" target="ou_ledQjHqPDxTcqBpmo-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-24" value="&lt;b&gt;Fade&#39;m&lt;/b&gt;&lt;br&gt;(user that makes a Fade&#39;m pick against the opponent gets the opposite of what the opponent pick)&lt;br&gt;&lt;br&gt;Challenge the mental ability of the user by making this Pick. This action will automatically pick the opposite of whatever the opponent picks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1290" width="270" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou_ledQjHqPDxTcqBpmo-27" target="ou_ledQjHqPDxTcqBpmo-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-27" value="SPC&lt;br&gt;(Sports Picks Competitor)&lt;br&gt;Special Category, not a sport" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1150" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ou_ledQjHqPDxTcqBpmo-31" target="PqzBVmyg6YNlqdCz46pc-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-31" value="User A&amp;nbsp; makes Fade&#39;m pick against User B&lt;br&gt;(at this time, the pick is not happend)&lt;br&gt;&lt;br&gt;Now User B picks from any sport ODDS page&lt;br&gt;User B picks India to win vs Australia&lt;br&gt;User A pick automatically will be Australia win vs India" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1515" width="270" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
