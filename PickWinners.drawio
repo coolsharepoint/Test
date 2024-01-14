@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-14T01:39:58.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="68fpIeZK1dAZAOKX5QGa" version="22.1.18" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-01-14T01:44:01.423Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="PWIt1QXhlXWrXSnmjo0V" version="22.1.18" type="github" pages="9">
   <diagram id="HBTIxVfMkTA2lrLuJLR0" name="Flow">
     <mxGraphModel dx="1518" dy="1764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -540,7 +540,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2q9m7gAkOctwpr07PVH1" name="Data Model">
-    <mxGraphModel dx="1290" dy="1664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2140" dy="1664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -554,6 +554,9 @@
           <mxGeometry x="160" y="-690" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LjpO9GoTghxUpKv3v1AZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LjpO9GoTghxUpKv3v1AZ-5" target="LjpO9GoTghxUpKv3v1AZ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-hkU6k9totj6-qjeLcx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LjpO9GoTghxUpKv3v1AZ-5" target="U-hkU6k9totj6-qjeLcx-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LjpO9GoTghxUpKv3v1AZ-5" value="Non Member" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -585,6 +588,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LjpO9GoTghxUpKv3v1AZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LjpO9GoTghxUpKv3v1AZ-14" target="LjpO9GoTghxUpKv3v1AZ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-hkU6k9totj6-qjeLcx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LjpO9GoTghxUpKv3v1AZ-8" target="U-hkU6k9totj6-qjeLcx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-hkU6k9totj6-qjeLcx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LjpO9GoTghxUpKv3v1AZ-8" target="U-hkU6k9totj6-qjeLcx-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LjpO9GoTghxUpKv3v1AZ-14" value="Only 1 Private League per Member" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -709,6 +718,15 @@
         </mxCell>
         <mxCell id="LjpO9GoTghxUpKv3v1AZ-51" value="Pick" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="-100" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-hkU6k9totj6-qjeLcx-4" value="Coins" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-650" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-hkU6k9totj6-qjeLcx-5" value="Tickets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-550" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-hkU6k9totj6-qjeLcx-8" value="Tickets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="-580" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
