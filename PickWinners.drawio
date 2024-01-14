@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-14T02:17:58.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="alH3y8_xQKqPjQxVOmxf" version="22.1.18" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-01-14T02:18:09.831Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="YVesO47j2zoDW3se0kpn" version="22.1.18" type="github" pages="9">
   <diagram id="HBTIxVfMkTA2lrLuJLR0" name="Flow">
     <mxGraphModel dx="1518" dy="1764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -740,7 +740,7 @@
           <mxGeometry x="850" y="-460" width="350" height="190" as="geometry" />
         </mxCell>
         <mxCell id="U-hkU6k9totj6-qjeLcx-12" value="merchandise &lt;br&gt;store" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="-600" width="110" height="40" as="geometry" />
+          <mxGeometry x="830" y="-490" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
