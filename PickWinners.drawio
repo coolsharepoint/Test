@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-14T01:44:01.423Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="PWIt1QXhlXWrXSnmjo0V" version="22.1.18" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-01-14T02:06:18.511Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="USiz8yATB7UuHZPKpVd-" version="22.1.18" type="github" pages="9">
   <diagram id="HBTIxVfMkTA2lrLuJLR0" name="Flow">
     <mxGraphModel dx="1518" dy="1764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -727,6 +727,9 @@
         </mxCell>
         <mxCell id="U-hkU6k9totj6-qjeLcx-8" value="Tickets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="-580" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-hkU6k9totj6-qjeLcx-11" value="&lt;b&gt;Private League Game Rules:&lt;/b&gt;&lt;br&gt;100 coins per member that wishes to join the game&lt;br&gt;App charges 5 coins to the League owner to create the game&lt;br&gt;&lt;br&gt;League owner will send 100 coins &lt;br&gt;to User A thatjoins the private league game&lt;br&gt;&lt;br&gt;League owner will send 100 coins&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;to User B thatjoins the private league game&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="815" y="-732" width="350" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
