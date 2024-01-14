@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T02:15:52.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_Z3rVnTGxykjDqUokHZc" version="22.1.17" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-01-14T01:23:22.937Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="G7RddzlkyLTJWNtqgGHc" version="22.1.18" type="github" pages="8">
   <diagram id="HBTIxVfMkTA2lrLuJLR0" name="Flow">
-    <mxGraphModel dx="1518" dy="1724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="1630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
             <mxPoint y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ou_ledQjHqPDxTcqBpmo-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3M_IRH6qFI7yIqX2iC_-1" target="ou_ledQjHqPDxTcqBpmo-20">
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="C3M_IRH6qFI7yIqX2iC_-1" target="ou_ledQjHqPDxTcqBpmo-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C3M_IRH6qFI7yIqX2iC_-1" value="Home screen" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -124,7 +124,7 @@
         <mxCell id="s1lREcYMVisePpJ_RNux-1" value="Join Private league" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
           <mxGeometry x="890" y="235" width="170" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ou_ledQjHqPDxTcqBpmo-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s1lREcYMVisePpJ_RNux-2" target="ou_ledQjHqPDxTcqBpmo-18">
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="s1lREcYMVisePpJ_RNux-2" target="ou_ledQjHqPDxTcqBpmo-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s1lREcYMVisePpJ_RNux-2" value="Join Public league&lt;br&gt;Open to join any Public league game" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -451,90 +451,198 @@
         <mxCell id="kAUq-aCmiTJiIFSBqX3x-25" value="Player Props - Rebounds" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="500" y="2630" width="297.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ou_ledQjHqPDxTcqBpmo-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Half Lines&lt;/b&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;Taking the ODDS for half of the match&lt;br style=&quot;font-size: 16px;&quot;&gt;All the flow exactly works as like Game Lines flow&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Half Lines&lt;/b&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;Taking the ODDS for half of the match&lt;br style=&quot;font-size: 16px;&quot;&gt;All the flow exactly works as like Game Lines flow&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="840" y="2475" width="320" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="ou_ledQjHqPDxTcqBpmo-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou_ledQjHqPDxTcqBpmo-3" target="ou_ledQjHqPDxTcqBpmo-9">
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ou_ledQjHqPDxTcqBpmo-3" target="ou_ledQjHqPDxTcqBpmo-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ou_ledQjHqPDxTcqBpmo-14" value="1 day&lt;br&gt;tournament" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ou_ledQjHqPDxTcqBpmo-10">
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-14" value="1 day&lt;br&gt;tournament" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ou_ledQjHqPDxTcqBpmo-10" vertex="1" connectable="0">
           <mxGeometry x="0.0058" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ou_ledQjHqPDxTcqBpmo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou_ledQjHqPDxTcqBpmo-3" target="ou_ledQjHqPDxTcqBpmo-11">
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ou_ledQjHqPDxTcqBpmo-3" target="ou_ledQjHqPDxTcqBpmo-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ou_ledQjHqPDxTcqBpmo-13" value="7 day &lt;br&gt;tournament" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ou_ledQjHqPDxTcqBpmo-12">
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-13" value="7 day &lt;br&gt;tournament" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ou_ledQjHqPDxTcqBpmo-12" vertex="1" connectable="0">
           <mxGeometry x="0.1304" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ou_ledQjHqPDxTcqBpmo-3" value="Tournament&lt;br&gt;(unlimited users can join. A user plays against everyone in the game)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-3" value="Tournament&lt;br&gt;(unlimited users can join. A user plays against everyone in the game)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1577.5" y="340" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ou_ledQjHqPDxTcqBpmo-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ou_ledQjHqPDxTcqBpmo-4" target="ou_ledQjHqPDxTcqBpmo-16">
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ou_ledQjHqPDxTcqBpmo-4" target="ou_ledQjHqPDxTcqBpmo-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ou_ledQjHqPDxTcqBpmo-4" value="1 player versus 1 player&lt;br&gt;(app creates new game continuosly after 2 players join)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-4" value="1 player versus 1 player&lt;br&gt;(app creates new game continuosly after 2 players join)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1577.5" y="235" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ou_ledQjHqPDxTcqBpmo-9" value="Play period : 1 day&lt;br&gt;Pick Limit : 7 Picks/day" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-9" value="Play period : 1 day&lt;br&gt;Pick Limit : 7 Picks/day" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1470" y="475" width="137.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ou_ledQjHqPDxTcqBpmo-11" value="Play period : 7 day&lt;br&gt;Pick Limit : 3 Picks/day" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-11" value="Play period : 7 day&lt;br&gt;Pick Limit : 3 Picks/day" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1697.5" y="475" width="137.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ou_ledQjHqPDxTcqBpmo-16" value="Play period : 1 day&lt;br&gt;Pick Limit : 7 Picks/day" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-16" value="Play period : 1 day&lt;br&gt;Pick Limit : 7 Picks/day" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1827.5" y="235" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ou_ledQjHqPDxTcqBpmo-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ou_ledQjHqPDxTcqBpmo-18" target="ou_ledQjHqPDxTcqBpmo-4">
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ou_ledQjHqPDxTcqBpmo-18" target="ou_ledQjHqPDxTcqBpmo-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ou_ledQjHqPDxTcqBpmo-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ou_ledQjHqPDxTcqBpmo-18" target="ou_ledQjHqPDxTcqBpmo-3">
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ou_ledQjHqPDxTcqBpmo-18" target="ou_ledQjHqPDxTcqBpmo-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ou_ledQjHqPDxTcqBpmo-18" value="Users use their ticket to join the game.&lt;br&gt;1 ticket/game" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-18" value="Users use their ticket to join the game.&lt;br&gt;1 ticket/game" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1340" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ou_ledQjHqPDxTcqBpmo-20" value="User gets 7 FREE tickets" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-20" value="User gets 7 FREE tickets" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="415" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ou_ledQjHqPDxTcqBpmo-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ou_ledQjHqPDxTcqBpmo-24" target="ou_ledQjHqPDxTcqBpmo-31">
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ou_ledQjHqPDxTcqBpmo-24" target="ou_ledQjHqPDxTcqBpmo-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ou_ledQjHqPDxTcqBpmo-24" value="&lt;b&gt;Fade&#39;m - 1 Pick per Game&lt;/b&gt;&lt;br&gt;user that makes a Fade&#39;m pick against the opponent gets the opposite of what the opponent pick&lt;br&gt;&lt;br&gt;(Challenge the mental ability of the user by making this Pick. This action will automatically pick the opposite of whatever the opponent picks)&lt;br&gt;&lt;b&gt;Note - User A can select at what pick number to User B will be forced&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-24" value="&lt;b&gt;Fade&#39;m - 1 Pick per Game&lt;/b&gt;&lt;br&gt;user that makes a Fade&#39;m pick against the opponent gets the opposite of what the opponent pick&lt;br&gt;&lt;br&gt;(Challenge the mental ability of the user by making this Pick. This action will automatically pick the opposite of whatever the opponent picks)&lt;br&gt;&lt;b&gt;Note - User A can select at what pick number to User B will be forced&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="1290" width="270" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="ou_ledQjHqPDxTcqBpmo-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou_ledQjHqPDxTcqBpmo-27" target="ou_ledQjHqPDxTcqBpmo-24">
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ou_ledQjHqPDxTcqBpmo-27" target="ou_ledQjHqPDxTcqBpmo-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ou_ledQjHqPDxTcqBpmo-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou_ledQjHqPDxTcqBpmo-27" target="ou_ledQjHqPDxTcqBpmo-34">
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ou_ledQjHqPDxTcqBpmo-27" target="ou_ledQjHqPDxTcqBpmo-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ou_ledQjHqPDxTcqBpmo-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ou_ledQjHqPDxTcqBpmo-27" target="ou_ledQjHqPDxTcqBpmo-38">
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ou_ledQjHqPDxTcqBpmo-27" target="ou_ledQjHqPDxTcqBpmo-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ou_ledQjHqPDxTcqBpmo-27" value="SPC&lt;br&gt;(Sports Picks Competitor)&lt;br&gt;Special Category, not a sport" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-27" value="SPC&lt;br&gt;(Sports Picks Competitor)&lt;br&gt;Special Category, not a sport" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1100" y="1140" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ou_ledQjHqPDxTcqBpmo-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ou_ledQjHqPDxTcqBpmo-31" target="PqzBVmyg6YNlqdCz46pc-36">
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ou_ledQjHqPDxTcqBpmo-31" target="PqzBVmyg6YNlqdCz46pc-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ou_ledQjHqPDxTcqBpmo-31" value="User A&amp;nbsp; makes Fade&#39;m pick against User B&lt;br&gt;(at this time, the pick is not happend)&lt;br&gt;&lt;br&gt;Now User B picks from any sport ODDS page&lt;br&gt;User B picks India to win vs Australia&lt;br&gt;User A pick automatically will be Australia win vs India" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-31" value="User A&amp;nbsp; makes Fade&#39;m pick against User B&lt;br&gt;(at this time, the pick is not happend)&lt;br&gt;&lt;br&gt;Now User B picks from any sport ODDS page&lt;br&gt;User B picks India to win vs Australia&lt;br&gt;User A pick automatically will be Australia win vs India" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="1515" width="270" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="ou_ledQjHqPDxTcqBpmo-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ou_ledQjHqPDxTcqBpmo-34" target="ou_ledQjHqPDxTcqBpmo-36">
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ou_ledQjHqPDxTcqBpmo-34" target="ou_ledQjHqPDxTcqBpmo-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ou_ledQjHqPDxTcqBpmo-34" value="&lt;b&gt;Force&#39;m&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;- 1 Pick per Game&lt;/b&gt;&lt;br&gt;user that makes a Force&#39;m pick forces the opponent to a specific match to pick from&lt;br&gt;&lt;br&gt;(User will be forced to make a pick from a specific match. User A&amp;nbsp; wanted to have the User B to lose so he forces to make a pick from specific match.)&lt;br&gt;&lt;b&gt;Note - User A can select at what pick number to User B will be forced&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-34" value="&lt;b&gt;Force&#39;m&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;- 1 Pick per Game&lt;/b&gt;&lt;br&gt;user that makes a Force&#39;m pick forces the opponent to a specific match to pick from&lt;br&gt;&lt;br&gt;(User will be forced to make a pick from a specific match. User A&amp;nbsp; wanted to have the User B to lose so he forces to make a pick from specific match.)&lt;br&gt;&lt;b&gt;Note - User A can select at what pick number to User B will be forced&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1135" y="1290" width="270" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="ou_ledQjHqPDxTcqBpmo-36" value="&lt;br&gt;User A makes Force&#39;m pick against User B&lt;br&gt;(at this time, the app will ask the User A to pick the match for the User B to pick )&lt;br&gt;&lt;br&gt;Now User B when they click the &lt;b&gt;PickWinner button&lt;/b&gt; will be forced to pick from the match that User A selected" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-36" value="&lt;br&gt;User A makes Force&#39;m pick against User B&lt;br&gt;(at this time, the app will ask the User A to pick the match for the User B to pick )&lt;br&gt;&lt;br&gt;Now User B when they click the &lt;b&gt;PickWinner button&lt;/b&gt; will be forced to pick from the match that User A selected" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1132" y="1507.5" width="276" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="ou_ledQjHqPDxTcqBpmo-38" value="&lt;b&gt;Tail&#39;m&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;- 1 Pick per Game&lt;/b&gt;&lt;br&gt;user that makes a Tail&#39;m pick will get the same exact pick as the other user&lt;br&gt;&lt;br&gt;(User A makes Tail&#39;m pick with User B, then whatever pick User B makes, then User A will have the same pick.)&lt;br&gt;&lt;b&gt;Note - Users that can be Tailed cannot be playing the same game.&amp;nbsp;&lt;br&gt;The users that can be tailed will be picked from the Ranks - Overall ranks for the users&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ou_ledQjHqPDxTcqBpmo-38" value="&lt;b&gt;Tail&#39;m&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;- 1 Pick per Game&lt;/b&gt;&lt;br&gt;user that makes a Tail&#39;m pick will get the same exact pick as the other user&lt;br&gt;&lt;br&gt;(User A makes Tail&#39;m pick with User B, then whatever pick User B makes, then User A will have the same pick.)&lt;br&gt;&lt;b&gt;Note - Users that can be Tailed cannot be playing the same game.&amp;nbsp;&lt;br&gt;The users that can be tailed will be picked from the Ranks - Overall ranks for the users&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1462.5" y="1290" width="270" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o3iqmlzx6SczRqUw-bmX-1" target="o3iqmlzx6SczRqUw-bmX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o3iqmlzx6SczRqUw-bmX-1" target="o3iqmlzx6SczRqUw-bmX-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-1" value="User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o3iqmlzx6SczRqUw-bmX-2" target="o3iqmlzx6SczRqUw-bmX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-2" value="Non Member" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o3iqmlzx6SczRqUw-bmX-3" target="o3iqmlzx6SczRqUw-bmX-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="-470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o3iqmlzx6SczRqUw-bmX-3" target="o3iqmlzx6SczRqUw-bmX-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-3" value="Member" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o3iqmlzx6SczRqUw-bmX-6" target="o3iqmlzx6SczRqUw-bmX-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o3iqmlzx6SczRqUw-bmX-6" target="o3iqmlzx6SczRqUw-bmX-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-6" value="Public League" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o3iqmlzx6SczRqUw-bmX-8" target="o3iqmlzx6SczRqUw-bmX-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o3iqmlzx6SczRqUw-bmX-8" target="o3iqmlzx6SczRqUw-bmX-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-8" value="Private League" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o3iqmlzx6SczRqUw-bmX-11" target="o3iqmlzx6SczRqUw-bmX-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o3iqmlzx6SczRqUw-bmX-11" target="o3iqmlzx6SczRqUw-bmX-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-11" value="Game1&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-370" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o3iqmlzx6SczRqUw-bmX-12" target="o3iqmlzx6SczRqUw-bmX-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o3iqmlzx6SczRqUw-bmX-12" target="o3iqmlzx6SczRqUw-bmX-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="-300" />
+              <mxPoint x="475" y="-300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-12" value="Game 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-370" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o3iqmlzx6SczRqUw-bmX-13" target="o3iqmlzx6SczRqUw-bmX-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-13" value="Game n.." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-370" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o3iqmlzx6SczRqUw-bmX-19" target="o3iqmlzx6SczRqUw-bmX-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o3iqmlzx6SczRqUw-bmX-19" target="o3iqmlzx6SczRqUw-bmX-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-19" value="Tournament" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o3iqmlzx6SczRqUw-bmX-20" target="o3iqmlzx6SczRqUw-bmX-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-20" value="1 vs 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-21" value="Teams" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-25" value="1 vs 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="-260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-26" value="Tournament" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-31" value="Match 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="-180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-34" value="Match 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o3iqmlzx6SczRqUw-bmX-35" value="Match n.." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-180" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
