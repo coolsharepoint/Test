@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-14T02:14:29.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="B9XGpP0fmymHVmS6J6Jk" version="22.1.18" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-01-14T02:16:07.341Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="B9csPI0wHPVx4MaV6Jh8" version="22.1.18" type="github" pages="9">
   <diagram id="HBTIxVfMkTA2lrLuJLR0" name="Flow">
     <mxGraphModel dx="1518" dy="1764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -719,8 +719,24 @@
         <mxCell id="LjpO9GoTghxUpKv3v1AZ-51" value="Pick" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="-100" width="150" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="U-hkU6k9totj6-qjeLcx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U-hkU6k9totj6-qjeLcx-4" target="U-hkU6k9totj6-qjeLcx-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-hkU6k9totj6-qjeLcx-15" value="redeem" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U-hkU6k9totj6-qjeLcx-14">
+          <mxGeometry x="-0.3643" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="U-hkU6k9totj6-qjeLcx-4" value="Coins" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="-650" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-hkU6k9totj6-qjeLcx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-hkU6k9totj6-qjeLcx-5" target="U-hkU6k9totj6-qjeLcx-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-hkU6k9totj6-qjeLcx-16" value="redeem" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U-hkU6k9totj6-qjeLcx-13">
+          <mxGeometry x="-0.3859" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="U-hkU6k9totj6-qjeLcx-5" value="Tickets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="-550" width="90" height="40" as="geometry" />
@@ -729,7 +745,10 @@
           <mxGeometry x="-80" y="-580" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U-hkU6k9totj6-qjeLcx-11" value="&lt;b&gt;Private League Game Rules:&lt;/b&gt;&lt;br&gt;100 coins per member that wishes to join the game&lt;br&gt;App charges 5 coins to the League owner to create the game&lt;br&gt;&lt;br&gt;League owner will send &lt;b&gt;N&lt;/b&gt; coins &lt;br&gt;to User A(member) that joins the private league&lt;br&gt;&lt;br&gt;League owner will send &lt;b&gt;N&lt;/b&gt; coins&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;to User B(member)&amp;nbsp;&amp;nbsp;thatjoins the private league&lt;br&gt;&lt;br&gt;User&amp;nbsp; A/User B will use those coins to join the private game&lt;br&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="830" y="-725" width="350" height="190" as="geometry" />
+          <mxGeometry x="850" y="-460" width="350" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="U-hkU6k9totj6-qjeLcx-12" value="merchandise &lt;br&gt;store" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="-600" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
