@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T03:19:01.701Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="EqY78PiHQDp7SBuI9oXF" version="23.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-06T03:19:10.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="nnTWmSe2xcqc29hCkp51" version="23.1.1" type="github" pages="7">
   <diagram id="7X_K-Tef5Lc3V7H4Zyhb" name="MultiAccountStructure">
     <mxGraphModel dx="1290" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1152,8 +1152,8 @@
         <mxCell id="JQcGYW2XutpcCHjxBb8S-52" value="API Gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="990" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JQcGYW2XutpcCHjxBb8S-56" value="Option 2 :&amp;nbsp; Going with this" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="468" width="160" height="30" as="geometry" />
+        <mxCell id="JQcGYW2XutpcCHjxBb8S-56" value="Option 2 :&amp;nbsp; Going with this" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="295" y="468" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
